@@ -1,0 +1,1563 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/ptonPersistence
+新文件 <-> 现有文件 : XUOChat.h      UICollectionViewWaterLayout.h
+新文件 <-> 现有文件 : SRelationRegister.h      NLSRingBuffer.h
+新文件 <-> 现有文件 : EElevt.h      NLSPlayAudio.h
+新文件 <-> 现有文件 : RKWater.h      ZKPayment.h
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : QMRItemsDelegateView.xib      BaShouHeaderView.xib
+新文件 <-> 现有文件 : APNUserView.xib      ChuangNewReusableView.xib
+新文件 <-> 现有文件 : GXTableView.xib      ElevtCardView.xib
+新文件 <-> 现有文件 : OIOllectionView.xib      CardView.xib
+新文件 <-> 现有文件 : DItemController.xib      CardController.xib
+新文件 <-> 现有文件 : YYRelationItemsController.xib      UploadImageController.xib
+新文件 <-> 现有文件 : AAlamofireSpeedsController.xib      MainViewController.xib
+新文件 <-> 现有文件 : IEVRingAbleController.xib      YYloadingViewController.xib
+新文件 <-> 现有文件 : DNChatController.xib      ChatNormalController.xib
+新文件 <-> 现有文件 : EZNTableController.xib      ChatViewController.xib
+新文件 <-> 现有文件 : PBHomeController.xib      EditCreatViewController.xib
+新文件 <-> 现有文件 : ZDetailsChangeCell.xib      ChuangDetailsItemsCell.xib
+新文件 <-> 现有文件 : ATEditCell.xib      CZTitleCollectionViewCell.xib
+新文件 <-> 现有文件 : KReusableUserCell.xib      ChuangDetailsTextCell.xib
+新文件 <-> 现有文件 : TVSpeedsOllectionCell.xib      ChuangDetailsChangeCell.xib
+新文件 <-> 现有文件 : VRingCreatCell.xib      CZTableViewCell.xib
+新文件 <-> 现有文件 : XEBufferResultController.xib      ChuangNewController.xib
+新文件 <-> 现有文件 : WITextController.xib      CreationResultController.xib
+新文件 <-> 现有文件 : GWGNormalGraphicsController.xib      EditUserViewController.xib
+新文件 <-> 现有文件 : YOPictureController.xib      AudioViewController.xib
+新文件 <-> 现有文件 : OPScreenDetailsController.xib      MineViewController.xib
+新文件 <-> 现有文件 : ERegisterModityController.xib      CollectionViewController.xib
+新文件 <-> 现有文件 : RGItemDetailsController.xib      AddViewController.xib
+新文件 <-> 现有文件 : PAymentController.xib      FeedbackController.xib
+新文件 <-> 现有文件 : MXYloadingController.xib      ElevtViewController.xib
+新文件 <-> 现有文件 : EEveantChuangController.xib      PointViewController.xib
+新文件 <-> 现有文件 : PBChatDelegateController.xib      WKWebViewController.xib
+新文件 <-> 现有文件 : PCTUploadController.xib      SettingViewController.xib
+新文件 <-> 现有文件 : QBSpeedsCanvasController.xib      RelationViewController.xib
+新文件 <-> 现有文件 : ITDelegateCell.xib      PictureViewCell.xib
+新文件 <-> 现有文件 : CZCreationDelegateCell.xib      CanvasCollectionViewCell.xib
+新文件 <-> 现有文件 : ZPhoneCell.xib      DrawTypeViewCell.xib
+新文件 <-> 现有文件 : HJEveantLoadingController.xib      DrawBasicViewController.xib
+新文件 <-> 现有文件 : YFirstNormalController.xib      DrawRecordViewController.xib
+新文件 <-> 现有文件 : YBDRelationController.xib      DrawTableViewController.xib
+新文件 <-> 现有文件 : VHRelationController.xib      CanvasViewController.xib
+新文件 <-> 现有文件 : SPointRegisterController.xib      DrawViewController.xib
+新文件 <-> 现有文件 : NGHTextShouController.xib      BaShouViewController.xib
+新文件 <-> 现有文件 : GSLPageRegisterController.xib      PhoneLoginController.xib
+新文件 <-> 现有文件 : EOllectionPlayCell.xib      FirstCollectionViewCell.xib
+新文件 <-> 现有文件 : WFIScreenController.xib      FirstViewController.xib
+新文件 <-> 现有文件 : ONKItemsCell.xib      AIdaTableViewCell.xib
+新文件 <-> 现有文件 : JBufferAymentCell.xib      YuYinClassCollectionCell.xib
+新文件 <-> 现有文件 : NBTextCell.xib      ElevtCollectionViewCell.xib
+新文件 <-> 现有文件 : UJLScreenPlayCell.xib      MeQTableViewCell.xib
+新文件 <-> 现有文件 : WIXAlamofireCell.xib      MineCollectionViewCell.xib
+新文件 <-> 现有文件 : IWDGraphicsItemsCell.xib      BaShouHeaderViewCell.xib
+新文件 <-> 现有文件 : OQChatAbleCell.xib      NewItemCollectionCell.xib
+新文件 <-> 现有文件 : WGMSpeedsCell.xib      ChuangNewCollectionCell.xib
+新文件 <-> 现有文件 : SBChuangCell.xib      AudioCollectionViewCell.xib
+新文件 <-> 现有文件 : DAbleNavigationCell.xib      GraphicsTableViewCell.xib
+新文件 <-> 现有文件 : EBYLayoutScreenCell.xib      EveantTableViewCell.xib
+新文件 <-> 现有文件 : ZQItleItemsCell.xib      MineTableViewCell.xib
+新文件 <-> 现有文件 : HBUYloadingCreationCell.xib      GraphicsHeaderViewCell.xib
+新文件 <-> 现有文件 : XQMainYloadingCell.xib      BaShouCollectionViewCell.xib
+新文件 <-> 现有文件 : WZGraphicsCell.xib      ChatHeaderViewCell.xib
+新文件 <-> 现有文件 : OBNewsCell.xib      YuYinCollectionViewCell.xib
+新文件 <-> 现有文件 : ZXRDelegatePrefixCell.xib      SettingTableViewCell.xib
+新文件 <-> 现有文件 : DSNewsCreatCell.xib      PointCollectionViewCell.xib
+新文件 <-> 现有文件 : KAbleController.swift      ViewController.swift
+新文件 <-> 现有文件 : voicePageCreatenew.gif      gundong.gif
+新文件 <-> 现有文件 : chineseSpeedsAyment.gif      loading.gif
+新文件 <-> 现有文件 : SRecordSocketHeader.swift      PrefixHeader.swift
+新文件 <-> 现有文件 : XUOChat.m      UICollectionViewWaterLayout.m
+新文件 <-> 现有文件 : GIZNavigationFlow.swift      Itemdata.swift
+新文件 <-> 现有文件 : MBufferPlay.swift      MyItemdata.swift
+新文件 <-> 现有文件 : LDraw.swift      NetAlamofire.swift
+新文件 <-> 现有文件 : SRelationRegister.mm      NLSRingBuffer.mm
+新文件 <-> 现有文件 : EElevt.mm      NLSPlayAudio.mm
+新文件 <-> 现有文件 : EYNormal.swift      MySpeeds.swift
+新文件 <-> 现有文件 : ZENavigation.swift      MyResponse.swift
+新文件 <-> 现有文件 : MZTextController.swift      NavigationViewController.swift
+新文件 <-> 现有文件 : ROUserHomeController.swift      TabBarViewController.swift
+新文件 <-> 现有文件 : RKWater.m      ZKPayment.m
+新文件 <-> 现有文件 : RPCollectionMine.swift      MySocket.swift
+新文件 <-> 现有文件 : VChatChange.swift      MyShowImage.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+新文件 <-> 现有文件 : QMRItemsDelegateView.swift      BaShouHeaderView.swift
+新文件 <-> 现有文件 : OIOllectionView.swift      CardView.swift
+新文件 <-> 现有文件 : HHomeNavigationView.swift      PageFlowView.swift
+新文件 <-> 现有文件 : GXTableView.swift      ElevtCardView.swift
+新文件 <-> 现有文件 : APNUserView.swift      ChuangNewReusableView.swift
+新文件 <-> 现有文件 : YYRelationItemsController.swift      UploadImageController.swift
+新文件 <-> 现有文件 : DItemController.swift      CardController.swift
+新文件 <-> 现有文件 : AAlamofireSpeedsController.swift      MainViewController.swift
+新文件 <-> 现有文件 : IEVRingAbleController.swift      YYloadingViewController.swift
+新文件 <-> 现有文件 : EZNTableController.swift      ChatViewController.swift
+新文件 <-> 现有文件 : DNChatController.swift      ChatNormalController.swift
+新文件 <-> 现有文件 : WITextController.swift      CreationResultController.swift
+新文件 <-> 现有文件 : PBHomeController.swift      EditCreatViewController.swift
+新文件 <-> 现有文件 : ZDetailsChangeCell.swift      ChuangDetailsItemsCell.swift
+新文件 <-> 现有文件 : VRingCreatCell.swift      CZTableViewCell.swift
+新文件 <-> 现有文件 : ATEditCell.swift      CZTitleCollectionViewCell.swift
+新文件 <-> 现有文件 : KReusableUserCell.swift      ChuangDetailsTextCell.swift
+新文件 <-> 现有文件 : TVSpeedsOllectionCell.swift      ChuangDetailsChangeCell.swift
+新文件 <-> 现有文件 : XEBufferResultController.swift      ChuangNewController.swift
+新文件 <-> 现有文件 : ZSCreationHome.swift      AppVipModel.swift
+新文件 <-> 现有文件 : PCTUploadController.swift      SettingViewController.swift
+新文件 <-> 现有文件 : MXYloadingController.swift      ElevtViewController.swift
+新文件 <-> 现有文件 : YOPictureController.swift      AudioViewController.swift
+新文件 <-> 现有文件 : RGItemDetailsController.swift      AddViewController.swift
+新文件 <-> 现有文件 : GWGNormalGraphicsController.swift      EditUserViewController.swift
+新文件 <-> 现有文件 : QBSpeedsCanvasController.swift      RelationViewController.swift
+新文件 <-> 现有文件 : PBChatDelegateController.swift      WKWebViewController.swift
+新文件 <-> 现有文件 : EEveantChuangController.swift      PointViewController.swift
+新文件 <-> 现有文件 : OPScreenDetailsController.swift      MineViewController.swift
+新文件 <-> 现有文件 : PAymentController.swift      FeedbackController.swift
+新文件 <-> 现有文件 : ERegisterModityController.swift      CollectionViewController.swift
+新文件 <-> 现有文件 : YBDRelationController.swift      DrawTableViewController.swift
+新文件 <-> 现有文件 : YFirstNormalController.swift      DrawRecordViewController.swift
+新文件 <-> 现有文件 : HJEveantLoadingController.swift      DrawBasicViewController.swift
+新文件 <-> 现有文件 : ZPhoneCell.swift      DrawTypeViewCell.swift
+新文件 <-> 现有文件 : CZCreationDelegateCell.swift      CanvasCollectionViewCell.swift
+新文件 <-> 现有文件 : ITDelegateCell.swift      PictureViewCell.swift
+新文件 <-> 现有文件 : SPointRegisterController.swift      DrawViewController.swift
+新文件 <-> 现有文件 : VHRelationController.swift      CanvasViewController.swift
+新文件 <-> 现有文件 : NGHTextShouController.swift      BaShouViewController.swift
+新文件 <-> 现有文件 : EOllectionPlayCell.swift      FirstCollectionViewCell.swift
+新文件 <-> 现有文件 : WFIScreenController.swift      FirstViewController.swift
+新文件 <-> 现有文件 : GSLPageRegisterController.swift      PhoneLoginController.swift
+新文件 <-> 现有文件 : ZQItleItemsCell.swift      MineTableViewCell.swift
+新文件 <-> 现有文件 : IWDGraphicsItemsCell.swift      BaShouHeaderViewCell.swift
+新文件 <-> 现有文件 : JBufferAymentCell.swift      YuYinClassCollectionCell.swift
+新文件 <-> 现有文件 : OQChatAbleCell.swift      NewItemCollectionCell.swift
+新文件 <-> 现有文件 : DSNewsCreatCell.swift      PointCollectionViewCell.swift
+新文件 <-> 现有文件 : XQMainYloadingCell.swift      BaShouCollectionViewCell.swift
+新文件 <-> 现有文件 : WIXAlamofireCell.swift      MineCollectionViewCell.swift
+新文件 <-> 现有文件 : UJLScreenPlayCell.swift      MeQTableViewCell.swift
+新文件 <-> 现有文件 : ONKItemsCell.swift      AIdaTableViewCell.swift
+新文件 <-> 现有文件 : WZGraphicsCell.swift      ChatHeaderViewCell.swift
+新文件 <-> 现有文件 : SBChuangCell.swift      AudioCollectionViewCell.swift
+新文件 <-> 现有文件 : DAbleNavigationCell.swift      GraphicsTableViewCell.swift
+新文件 <-> 现有文件 : WGMSpeedsCell.swift      ChuangNewCollectionCell.swift
+新文件 <-> 现有文件 : ZXRDelegatePrefixCell.swift      SettingTableViewCell.swift
+新文件 <-> 现有文件 : HBUYloadingCreationCell.swift      GraphicsHeaderViewCell.swift
+新文件 <-> 现有文件 : NBTextCell.swift      ElevtCollectionViewCell.swift
+新文件 <-> 现有文件 : OBNewsCell.swift      YuYinCollectionViewCell.swift
+新文件 <-> 现有文件 : EBYLayoutScreenCell.swift      EveantTableViewCell.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+正在自动获取分析过滤不能修改函数名称集合。。。。。
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: ViewController <---替换为---> KAbleController
+类名: KeyConfiguration <---替换为---> TScreen
+类名: UICollectionViewWaterLayout <---替换为---> XUOChat
+类名: MyItemdata <---替换为---> MBufferPlay
+类名: NetAlamofire <---替换为---> LDraw
+类名: NlsRingBuffer <---替换为---> WVOBasicUpload
+类名: NLSPlayAudio <---替换为---> EElevt
+类名: MySpeeds <---替换为---> EYNormal
+类名: MySpeedsTask <---替换为---> TTableAyment
+类名: AppLogin <---替换为---> CGHGundong
+类名: AppMineInfo <---替换为---> MFZYloading
+类名: AppOther <---替换为---> IDetailsMine
+类名: AppAiSketch <---替换为---> NShouBuffer
+类名: AppFindImg <---替换为---> XFirstHome
+类名: AppFindImgData <---替换为---> QELoginFirst
+类名: AppChuanNew <---替换为---> KARingScreen
+类名: AppChuanNewHeader <---替换为---> MKKReusableHeader
+类名: AppChuanNewItems <---替换为---> GYloading
+类名: AppChuanNewItemRows <---替换为---> MSWaterNormal
+类名: AppVoicePlay <---替换为---> FOPElevt
+类名: AppVipMeal <---替换为---> RDIAudio
+类名: AppVipItemRows <---替换为---> CHeader
+类名: AppDrawPonse <---替换为---> AGCenter
+类名: AppDrawItems <---替换为---> ZOllection
+类名: NavigationViewController <---替换为---> MZTextController
+类名: TabBarViewController <---替换为---> ROUserHomeController
+类名: ZKPayment <---替换为---> RKWater
+类名: MySocket <---替换为---> RPCollectionMine
+类名: MyShowImage <---替换为---> VChatChange
+类名: AppDelegate <---替换为---> AppDelegate
+类名: BaShouHeaderView <---替换为---> QMRItemsDelegateView
+类名: CardView <---替换为---> OIOllectionView
+类名: PageFlowView <---替换为---> HHomeNavigationView
+类名: ElevtCardView <---替换为---> GXTableView
+类名: ChuangNewReusableView <---替换为---> APNUserView
+类名: UploadImageController <---替换为---> YYRelationItemsController
+类名: CardController <---替换为---> DItemController
+类名: MainViewController <---替换为---> AAlamofireSpeedsController
+类名: YYloadingViewController <---替换为---> IEVRingAbleController
+类名: ChatViewController <---替换为---> EZNTableController
+类名: ChatNormalController <---替换为---> DNChatController
+类名: CreationResultController <---替换为---> WITextController
+类名: EditCreatViewController <---替换为---> PBHomeController
+类名: ChuangDetailsItemsCell <---替换为---> ZDetailsChangeCell
+类名: CZTableViewCell <---替换为---> VRingCreatCell
+类名: CZTitleCollectionViewCell <---替换为---> ATEditCell
+类名: ChuangDetailsTextCell <---替换为---> KReusableUserCell
+类名: ChuangDetailsChangeCell <---替换为---> TVSpeedsOllectionCell
+类名: ChuangNewController <---替换为---> XEBufferResultController
+类名: AppVipModel <---替换为---> ZSCreationHome
+类名: AppdrawModel <---替换为---> AFRegisterReusable
+类名: SettingViewController <---替换为---> PCTUploadController
+类名: ElevtViewController <---替换为---> MXYloadingController
+类名: AudioViewController <---替换为---> YOPictureController
+类名: AddViewController <---替换为---> RGItemDetailsController
+类名: EditUserViewController <---替换为---> GWGNormalGraphicsController
+类名: RelationViewController <---替换为---> QBSpeedsCanvasController
+类名: WKWebViewController <---替换为---> PBChatDelegateController
+类名: PointViewController <---替换为---> EEveantChuangController
+类名: MineViewController <---替换为---> OPScreenDetailsController
+类名: FeedbackController <---替换为---> PAymentController
+类名: CollectionViewController <---替换为---> ERegisterModityController
+类名: DrawTableViewController <---替换为---> YBDRelationController
+类名: DrawRecordViewController <---替换为---> YFirstNormalController
+类名: DrawBasicViewController <---替换为---> HJEveantLoadingController
+类名: DrawTypeViewCell <---替换为---> ZPhoneCell
+类名: CanvasCollectionViewCell <---替换为---> CZCreationDelegateCell
+类名: PictureViewCell <---替换为---> ITDelegateCell
+类名: DrawViewController <---替换为---> SPointRegisterController
+类名: CanvasViewController <---替换为---> VHRelationController
+类名: BaShouViewController <---替换为---> NGHTextShouController
+类名: FirstCollectionViewCell <---替换为---> EOllectionPlayCell
+类名: FirstViewController <---替换为---> WFIScreenController
+类名: PhoneLoginController <---替换为---> GSLPageRegisterController
+类名: MineTableViewCell <---替换为---> ZQItleItemsCell
+类名: BaShouHeaderViewCell <---替换为---> IWDGraphicsItemsCell
+类名: YuYinClassCollectionCell <---替换为---> JBufferAymentCell
+类名: NewItemCollectionCell <---替换为---> OQChatAbleCell
+类名: PointCollectionViewCell <---替换为---> DSNewsCreatCell
+类名: BaShouCollectionViewCell <---替换为---> XQMainYloadingCell
+类名: MineCollectionViewCell <---替换为---> WIXAlamofireCell
+类名: MeQTableViewCell <---替换为---> UJLScreenPlayCell
+类名: AIdaTableViewCell <---替换为---> ONKItemsCell
+类名: ChatHeaderViewCell <---替换为---> WZGraphicsCell
+类名: AudioCollectionViewCell <---替换为---> SBChuangCell
+类名: GraphicsTableViewCell <---替换为---> DAbleNavigationCell
+类名: ChuangNewCollectionCell <---替换为---> WGMSpeedsCell
+类名: SettingTableViewCell <---替换为---> ZXRDelegatePrefixCell
+类名: GraphicsHeaderViewCell <---替换为---> HBUYloadingCreationCell
+类名: ElevtCollectionViewCell <---替换为---> NBTextCell
+类名: YuYinCollectionViewCell <---替换为---> OBNewsCell
+类名: EveantTableViewCell <---替换为---> EBYLayoutScreenCell
+
+
+开始替换所有源文件中的类名。。。。。。
+
+宏名称: DEBUG_MODE <---替换为---> ItleDetails
+宏名称: TLog <---替换为---> Class_85BasicDraw
+宏名称: TLog <---替换为---> Class_85BasicDraw
+宏名称: EVERY_READ_LENGTH <---替换为---> EveantAymentLayoutGundong
+宏名称: NUM_BUFFERS <---替换为---> DetailsSocket
+宏名称: QUEUE_BUFFER_SIZE <---替换为---> DetailsType_j_UserModity
+宏名称: Sandbox <---替换为---> SocketResponseReusable
+宏名称: AppStore <---替换为---> Class_vSpeedsShou
+
+
+混淆类名耗时：0.11848115921020508秒
+
+
+混淆图片xml资源耗时：7.598160982131958秒
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+协议: UICollectionViewWaterLayoutDataSource <---替换为---> WXYVQNavigationCreation
+协议: NlsPlayerDelegate <---替换为---> KFENNewsDelegate
+协议: BaShouHeaderViewDataSource <---替换为---> CXFAymentHeader
+协议: PageFlowViewDelegate <---替换为---> JHPFSpeeds
+协议: PageFlowViewDataSource <---替换为---> JHTCYPicture
+协议: ElevtCardViewDataSource <---替换为---> YWDChuang
+协议: ChuangDetailsChangeCellDataSource <---替换为---> NLVFirst
+协议: AIdaTableViewCellDataSource <---替换为---> RNPLayout
+协议: ChatHeaderViewCellDataSource <---替换为---> UDXSpeeds
+协议: GraphicsTableViewCellDataSource <---替换为---> OTULType
+协议: GraphicsHeaderViewCellDataSource <---替换为---> HTCCReusable
+协议: EveantTableViewCellDataSource <---替换为---> HGTSFHome
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+XUOChat : UICollectionViewLayout
+WVOBasicUpload : NSObject
+EElevt : NSObject
+RKWater : NSObject
+KAbleController : UIViewController
+EYNormal : NSObject
+TTableAyment : NSObject
+MZTextController : UINavigationController
+ROUserHomeController : UITabBarController
+RPCollectionMine : NSObject
+VChatChange : NSObject
+AppDelegate : UIResponder
+QMRItemsDelegateView : UIView
+OIOllectionView : UIView
+HHomeNavigationView : UIView
+GXTableView : UIView
+APNUserView : UICollectionReusableView
+YYRelationItemsController : UIViewController
+DItemController : UIViewController
+AAlamofireSpeedsController : UIViewController
+IEVRingAbleController : UIViewController
+EZNTableController : UIViewController
+DNChatController : UIViewController
+WITextController : UIViewController
+PBHomeController : UIViewController
+ZDetailsChangeCell : UICollectionViewCell
+VRingCreatCell : UITableViewCell
+ATEditCell : UICollectionViewCell
+KReusableUserCell : UICollectionViewCell
+TVSpeedsOllectionCell : UICollectionViewCell
+XEBufferResultController : UIViewController
+PCTUploadController : UIViewController
+MXYloadingController : UIViewController
+YOPictureController : UIViewController
+RGItemDetailsController : UIViewController
+GWGNormalGraphicsController : UIViewController
+QBSpeedsCanvasController : UIViewController
+PBChatDelegateController : UIViewController
+EEveantChuangController : UIViewController
+OPScreenDetailsController : UIViewController
+PAymentController : UIViewController
+ERegisterModityController : UIViewController
+YBDRelationController : UIViewController
+YFirstNormalController : UIViewController
+HJEveantLoadingController : UIViewController
+ZPhoneCell : UICollectionViewCell
+CZCreationDelegateCell : UICollectionViewCell
+ITDelegateCell : UICollectionViewCell
+SPointRegisterController : UIViewController
+VHRelationController : UIViewController
+NGHTextShouController : UIViewController
+EOllectionPlayCell : UICollectionViewCell
+WFIScreenController : UIViewController
+GSLPageRegisterController : UIViewController
+ZQItleItemsCell : UITableViewCell
+IWDGraphicsItemsCell : UICollectionViewCell
+JBufferAymentCell : UICollectionViewCell
+OQChatAbleCell : UICollectionViewCell
+DSNewsCreatCell : UICollectionViewCell
+XQMainYloadingCell : UICollectionViewCell
+WIXAlamofireCell : UICollectionViewCell
+UJLScreenPlayCell : UITableViewCell
+ONKItemsCell : UITableViewCell
+WZGraphicsCell : UITableViewCell
+SBChuangCell : UICollectionViewCell
+DAbleNavigationCell : UITableViewCell
+WGMSpeedsCell : UICollectionViewCell
+ZXRDelegatePrefixCell : UITableViewCell
+HBUYloadingCreationCell : UITableViewCell
+NBTextCell : UICollectionViewCell
+OBNewsCell : UICollectionViewCell
+EBYLayoutScreenCell : UITableViewCell
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 属性:@property (nonatomic, weak) id<WXYVQNavigationCreation>dataSource;属性名称:dataSource
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 属性:@property(nonatomic,assign) id<KFENNewsDelegate> delegate;属性名称:delegate
+文件: [旧 ZKPayment <--> 新 RKWater] 属性:@property (nonatomic, copy) NSString *transaction_id;属性名称:transaction_id
+文件: [旧 ZKPayment <--> 新 RKWater] 属性:@property (nonatomic, copy) NSString *currentPurchasedID;属性名称:currentPurchasedID
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 属性:@property (nonatomic,strong)NSMutableArray *attsArray;属性名称:attsArray
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 属性:@property (nonatomic,strong)NSMutableArray *columnHeights;属性名称:columnHeights
+
+
+开始自动修改Assets图片资源。。。。。。。
+launchImage       ---替换为--->       waterLogin
+homeItem3       ---替换为--->       starkapOpenNavigation
+homeItem2       ---替换为--->       selectCopycreation
+fiveStarkap       ---替换为--->       itleRecordDelegate_4
+whiteback       ---替换为--->       reusableBufferSave
+cancel       ---替换为--->       sendmessYloading
+lijiqianjin       ---替换为--->       loginbgCreatenew
+back       ---替换为--->       lijiqianjinPointicon
+confirm       ---替换为--->       pictureStarkap
+homeItem4       ---替换为--->       resultItemdata
+homeItem5       ---替换为--->       delegate_2Jjzy
+fiveStar       ---替换为--->       cancelFreeUser
+chinese       ---替换为--->       recordConfirm
+graybackgroud       ---替换为--->       copycreationChineseStart
+freeNumber       ---替换为--->       changeChineseItle
+openElevt       ---替换为--->       openCreat
+createnewChat       ---替换为--->       flowSave
+homeItem0       ---替换为--->       drawBannaersecond
+homeItem1       ---替换为--->       nextWater
+cellItemes       ---替换为--->       copy_1NumberWhite
+sendmess       ---替换为--->       default_wLoginCollect
+homeItem7       ---替换为--->       changebuttonLijiqianjin
+homeItem6       ---替换为--->       ableGraphicsNews
+changebutton       ---替换为--->       chuangPicture
+cellItemes_collect       ---替换为--->       itemdataSpeedsOllection
+homeadd       ---替换为--->       iconPlayArrow
+appmain       ---替换为--->       navigationEdit
+bannaerthird       ---替换为--->       pointDefaultavatar
+openmember       ---替换为--->       settingLogout
+memberCard       ---替换为--->       phonebtnNext
+bannaerfirst       ---替换为--->       openHome
+point_normal       ---替换为--->       pictureRelation
+pointdesc       ---替换为--->       copycreationTime_eCollection
+pointlabel       ---替换为--->       socketYback
+pointItemes       ---替换为--->       class_7FlowPlay
+point_select       ---替换为--->       imageResponseHomevoice
+memberbg       ---替换为--->       headerRecord
+bannaersecond       ---替换为--->       yloadingChinese
+next       ---替换为--->       numberGundong
+kkjbndsbhw0       ---替换为--->       createnewSavePhonebtn
+creation       ---替换为--->       createnewFirstCreat
+agincreation       ---替换为--->       memberbgCreationOllection
+copycreation       ---替换为--->       chuangAppmainFive
+audioConfirm       ---替换为--->       flowPointSelect
+cell_audioselect       ---替换为--->       showDefault_h7Speeds
+YY处理中       ---替换为--->       bannaerthirdChange
+YY听取中       ---替换为--->       startChangebuttonClose
+请为你的AI选择声音       ---替换为--->       uploadSpeeds
+YY话筒       ---替换为--->       canvasYloadingWhiteback
+cell_audio0       ---替换为--->       freeScreenElevt
+YYback       ---替换为--->       bannaerfirstIcon
+voiceIcon       ---替换为--->       elevtChinese
+mine_logout       ---替换为--->       settingPageStyle
+defaultavatar       ---替换为--->       delete_oaPage
+mine_feedback       ---替换为--->       arrowTime_s
+mineCollect       ---替换为--->       mainPointSendmess
+mine_copy       ---替换为--->       userAlamofire
+mine_relation       ---替换为--->       sbpkChuangBack
+mine_arrow       ---替换为--->       ringHome
+mine_default_arrow       ---替换为--->       showOllectionClass_5
+mine_zhuxiao       ---替换为--->       graphicsGraybackgroudOpenmember
+addImage       ---替换为--->       arrowItemesItemdata
+red_close       ---替换为--->       changeSetting
+mine_delete       ---替换为--->       starRing
+mine_agreen       ---替换为--->       zhuxiaoChatArrow
+minePoint       ---替换为--->       openmemberFlowType_fc
+minememberTime       ---替换为--->       jjzyPhonebtn
+styleImageView       ---替换为--->       quickloginLoginbgPlay
+draw_start       ---替换为--->       jjzyStar
+draw_9:16_s       ---替换为--->       jjzyCreat
+draw_16:9_s       ---替换为--->       starRecordChange
+draw_record       ---替换为--->       normalVoiceShow
+descImageView       ---替换为--->       socketPrefix_lGundong
+draw_confirm       ---替换为--->       showSelectHomeadd
+draw_1:1_s       ---替换为--->       homeaddFive
+draw_fgfg       ---替换为--->       pointlabelEveant
+draw_white       ---替换为--->       memberModity
+draw_16:9       ---替换为--->       loginCreationClose
+line       ---替换为--->       chatDelete_h0
+draw_default       ---替换为--->       pointdescFirst
+draw_3Dkt       ---替换为--->       feedbackItemsEdit
+draw_xsfg       ---替换为--->       selectArrow
+draw_save       ---替换为--->       centerZhuxiao
+draw_sbpk       ---替换为--->       createnewPointdescFeedback
+draw_9:16       ---替换为--->       normalWhiteback
+draw_1:1       ---替换为--->       feedbackDelete_s
+draw_scfg       ---替换为--->       whiteImageLijiqianjin
+draw_ecy       ---替换为--->       headerCloseSelect
+whitepointicon       ---替换为--->       loadingImageHeader
+pointicon       ---替换为--->       loginMainCopycreation
+draw_jjzy       ---替换为--->       resultChinese
+loginbg       ---替换为--->       xsfgStar
+phonebtn       ---替换为--->       itemesArrow
+quicklogin       ---替换为--->       register_xrScfgOpen
+item2       ---替换为--->       defaultavatarSetting
+item3       ---替换为--->       time_rShouNavigation
+item2_s       ---替换为--->       starkapEditClass_9h
+item5       ---替换为--->       shouWhitebackPage
+item4       ---替换为--->       fgfgWhitepointicon
+item5_s       ---替换为--->       bannaerfirstBannaerfirstWhitepointicon
+item3_s       ---替换为--->       ollectionDelegate_glChange
+item1       ---替换为--->       feedbackChangebutton
+item4_s       ---替换为--->       settingAyment
+item1_s       ---替换为--->       changebuttonTablePage
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 PrefixHeader <--> 新 SRecordSocketHeader]    函数名称: getAccountNumberIdentifier
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat]   函数名称: edgeInsets
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat]   函数名称: columnCount
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat]   函数名称: columnMargin
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat]   函数名称: rowMargin
+文件: [旧 MyItemdata <--> 新 MBufferPlay]    函数名称: mineItemsClick
+文件: [旧 MyItemdata <--> 新 MBufferPlay]    函数名称: myStypeItemsClick
+文件: [旧 NetAlamofire <--> 新 LDraw]    函数名称: post
+文件: [旧 NetAlamofire <--> 新 LDraw]    函数名称: uploadImages
+文件: [旧 NetAlamofire <--> 新 LDraw]    函数名称: compressImageToData
+文件: [旧 NetAlamofire <--> 新 LDraw]    函数名称: requestAppUploadFile
+文件: [旧 NetAlamofire <--> 新 LDraw]    函数名称: adjustImageResolution
+文件: [旧 NetAlamofire <--> 新 LDraw]    函数名称: normalPost
+文件: [旧 NLSRingBuffer <--> 新 SRelationRegister]   函数名称: ringbuffer_get_write_index
+文件: [旧 NLSRingBuffer <--> 新 SRelationRegister]   函数名称: ringbuffer_get_read_index
+文件: [旧 NLSRingBuffer <--> 新 SRelationRegister]   函数名称: ringbuffer_get_filled
+文件: [旧 NLSPlayAudio <--> 新 EElevt]   函数名称: primePlayQueueBuffers
+文件: [旧 NLSPlayAudio <--> 新 EElevt]   函数名称: sendDecibelValueNotification
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: stopPlay
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: startPlay
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: createPath
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: getInitParam
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: checkAliToken
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: stopSpeakingTimer
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: startRecording
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: startSpeakingTimer
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: cancelRecording
+文件: [旧 MySpeeds <--> 新 EYNormal]    函数名称: stopRecording
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: mineLogin
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: quickLogin
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: mineInfo
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: messageRequest
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: isChatPermis
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: mineFreeNumber
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: getpaintingPicture
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: waitingToload
+文件: [旧 MyResponse <--> 新 ZENavigation]    函数名称: clearCacheChat
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: handleActionWithType
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: handleActionWithType
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: toJsonData
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: verifyPurchaseWithPaymentTransaction
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: failedTransaction
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: removeAllUncompleteTransactionBeforeStartNewTransaction
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: getExpirationDateForPurchase
+文件: [旧 ZKPayment <--> 新 RKWater]   函数名称: validateReceiptWithData
+文件: [旧 MyShowImage <--> 新 VChatChange]    函数名称: action_displayImages
+文件: [旧 AppDelegate <--> 新 AppDelegate]    函数名称: detectNetworkStatus
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView]    函数名称: baShouHeaderViewTitle
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView]    函数名称: baShouTheHeader
+文件: [旧 CardView <--> 新 OIOllectionView]    函数名称: updateCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: sizeForPageInFlowView
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: didScrollToPage
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: didSelectCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: numberOfPagesInFlowView
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: cellForPageAtIndex
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: adjustCenterSubview
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: setPagesAtContentOffset
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: queueReusableCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: startTimer
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: removeCellAtIndex
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: singleCellTapAction
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: stopTimer
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: autoNextPage
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: setPageAtIndex
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView]    函数名称: refreshVisibleCellAppearance
+文件: [旧 ElevtCardView <--> 新 GXTableView]    函数名称: elevtCardViewPresent
+文件: [旧 ElevtCardView <--> 新 GXTableView]    函数名称: upgrades
+文件: [旧 ElevtCardView <--> 新 GXTableView]    函数名称: showCardView
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: loadingShow
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: performOCR
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: checkEvent
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: confirmClick
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: convertToCGImage
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: back
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController]    函数名称: tapPhotoClick
+文件: [旧 CardController <--> 新 DItemController]    函数名称: _nextClick
+文件: [旧 CardController <--> 新 DItemController]    函数名称: _dissmiss
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController]    函数名称: itemClick
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController]    函数名称: updateFreeCount
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController]    函数名称: createNewChatAction
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController]    函数名称: lookItemAcction
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: stopInterfaceStyleConfiguration
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: listeningStart
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: speakingValueNotification
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: thinkingInterfaceStyleConfiguration
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: openMark
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: zoomIn
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: collateSocketMessage
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: choose
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: sendMessage
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: back
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: stopAnimations
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: rotateImage
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: zoomOut
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: chooseVoiceNotification
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: startVioceAnimating
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: answerInterfaceStyleConfiguration
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController]    函数名称: elevtCardViewPresent
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: mineChatlishiMessage
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: updateTableView
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: sendMessage
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: back
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: messageSuccess
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: messageLoading
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: openMark
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: collateSocketMessage
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: updateFreeCount
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: messgaeSending
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: scrollToTheEndLastBottom
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: updateTextViewHeight
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: chatHeaderViewCellContent
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: elevtCardViewPresent
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: buttonplayVoiceAIdaTableViewCell
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: deleteAIdaTableViewCell
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: AddCollectionAIdaTableViewCell
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: enterEveantTableViewCell
+文件: [旧 ChatViewController <--> 新 EZNTableController]    函数名称: goodsCommentEveantTableViewCell
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: updateFreeCount
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: messageLoading
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: messageSuccess
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: openMark
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: mineChatlishiMessage
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: scrollToTheEndLastBottom
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: updateTextViewHeight
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: updateTableView
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: collateSocketMessage
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: chatHeaderViewCellContent
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: elevtCardViewPresent
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: buttonplayVoiceAIdaTableViewCell
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: deleteAIdaTableViewCell
+文件: [旧 ChatNormalController <--> 新 DNChatController]    函数名称: AddCollectionAIdaTableViewCell
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: aginCreationAction
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: collateSocketMessage
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: messgaeSending
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: copyCreationAction
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: messageLoading
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: messageSuccess
+文件: [旧 CreationResultController <--> 新 WITextController]    函数名称: backAction
+文件: [旧 EditCreatViewController <--> 新 PBHomeController]    函数名称: backAction
+文件: [旧 EditCreatViewController <--> 新 PBHomeController]    函数名称: ccreationAction
+文件: [旧 ChuangDetailsTextCell <--> 新 KReusableUserCell]    函数名称: clean
+文件: [旧 ChuangDetailsTextCell <--> 新 KReusableUserCell]    函数名称: textChange
+文件: [旧 ChuangDetailsChangeCell <--> 新 TVSpeedsOllectionCell]    函数名称: chuangDetailsChangeCell
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController]    函数名称: chuanNewHeader
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController]    函数名称: chuanNewRows
+文件: [旧 SettingViewController <--> 新 PCTUploadController]    函数名称: backClick
+文件: [旧 ElevtViewController <--> 新 MXYloadingController]    函数名称: checkOrderStatus
+文件: [旧 ElevtViewController <--> 新 MXYloadingController]    函数名称: placeOrder
+文件: [旧 ElevtViewController <--> 新 MXYloadingController]    函数名称: updateCountdown
+文件: [旧 ElevtViewController <--> 新 MXYloadingController]    函数名称: buying
+文件: [旧 ElevtViewController <--> 新 MXYloadingController]    函数名称: again
+文件: [旧 ElevtViewController <--> 新 MXYloadingController]    函数名称: back
+文件: [旧 AudioViewController <--> 新 YOPictureController]    函数名称: sliderValueChanged
+文件: [旧 AudioViewController <--> 新 YOPictureController]    函数名称: confirmAction
+文件: [旧 AudioViewController <--> 新 YOPictureController]    函数名称: backClick
+文件: [旧 AddViewController <--> 新 RGItemDetailsController]    函数名称: _backClick
+文件: [旧 AddViewController <--> 新 RGItemDetailsController]    函数名称: createClick
+文件: [旧 AddViewController <--> 新 RGItemDetailsController]    函数名称: create
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController]    函数名称: addAvatarAction
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController]    函数名称: updateMineInfo
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController]    函数名称: addPhoneAction
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController]    函数名称: uploadAvatar
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController]    函数名称: backAction
+文件: [旧 RelationViewController <--> 新 QBSpeedsCanvasController]    函数名称: fuzhi
+文件: [旧 RelationViewController <--> 新 QBSpeedsCanvasController]    函数名称: kefuEmail
+文件: [旧 WKWebViewController <--> 新 PBChatDelegateController]    函数名称: openWebView
+文件: [旧 WKWebViewController <--> 新 PBChatDelegateController]    函数名称: back
+文件: [旧 WKWebViewController <--> 新 PBChatDelegateController]    函数名称: webViewWebContentProcessDidTerminate
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: createPointOrder
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: checkOrderStatus
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: backAction
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: GetPointTable
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: GetPointAction
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: buying
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: AgreenAction
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: didSelectCell
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: didScrollToPage
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: sizeForPageInFlowView
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: numberOfPagesInFlowView
+文件: [旧 PointViewController <--> 新 EEveantChuangController]    函数名称: cellForPageAtIndex
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController]    函数名称: confirmPhoneClick
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController]    函数名称: pointAndCollectAction
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController]    函数名称: fuzhi
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController]    函数名称: chatVip
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController]    函数名称: updateInformation
+文件: [旧 FeedbackController <--> 新 PAymentController]    函数名称: deleteAction
+文件: [旧 FeedbackController <--> 新 PAymentController]    函数名称: sureSuccess
+文件: [旧 FeedbackController <--> 新 PAymentController]    函数名称: confirmAction
+文件: [旧 FeedbackController <--> 新 PAymentController]    函数名称: tapPhotosAction
+文件: [旧 FeedbackController <--> 新 PAymentController]    函数名称: backAction
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController]    函数名称: deleteAIdaTableViewCell
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController]    函数名称: backAcction
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController]    函数名称: buttonplayVoiceAIdaTableViewCell
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController]    函数名称: AddCollectionAIdaTableViewCell
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController]    函数名称: drawTablelist
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController]    函数名称: updateImages
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController]    函数名称: backClick
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController]    函数名称: drawTablelist
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController]    函数名称: drawSizeClick
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController]    函数名称: exampleClick
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController]    函数名称: confirmClick
+文件: [旧 DrawViewController <--> 新 SPointRegisterController]    函数名称: itemClick
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: backClick
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: saveClick
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: seeRecordAction
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: saveAllImagesToAlbum
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: updateImages
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: paintLoading
+文件: [旧 CanvasViewController <--> 新 VHRelationController]    函数名称: redrawClick
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController]    函数名称: baShouClassRows
+文件: [旧 FirstViewController <--> 新 WFIScreenController]    函数名称: isDeviceiPad
+文件: [旧 FirstViewController <--> 新 WFIScreenController]    函数名称: nextClick
+文件: [旧 FirstViewController <--> 新 WFIScreenController]    函数名称: seekStatus
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: getVerity
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: login
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: checkloginStatus
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: speedloginClick
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: backClick
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: login
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController]    函数名称: seekStatus
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: deleteAIdaTableViewCell
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: buttonplayVoiceAIdaTableViewCell
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: AddCollectionAIdaTableViewCell
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: aidApass
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: aidAbroadcast
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: collectAction
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell]    函数名称: aidAdelete
+文件: [旧 ChatHeaderViewCell <--> 新 WZGraphicsCell]    函数名称: chatHeaderViewCellContent
+文件: [旧 ChatHeaderViewCell <--> 新 WZGraphicsCell]    函数名称: changeAction
+文件: [旧 GraphicsTableViewCell <--> 新 DAbleNavigationCell]    函数名称: deleteGraphicsTableViewCell
+文件: [旧 GraphicsTableViewCell <--> 新 DAbleNavigationCell]    函数名称: saveImageGraphicsTableViewCell
+文件: [旧 GraphicsTableViewCell <--> 新 DAbleNavigationCell]    函数名称: tapImageGraphicsTableViewCell
+文件: [旧 GraphicsTableViewCell <--> 新 DAbleNavigationCell]    函数名称: saveImageToPhotoAlbum
+文件: [旧 GraphicsTableViewCell <--> 新 DAbleNavigationCell]    函数名称: deleteClick
+文件: [旧 GraphicsTableViewCell <--> 新 DAbleNavigationCell]    函数名称: tapImage
+文件: [旧 GraphicsHeaderViewCell <--> 新 HBUYloadingCreationCell]    函数名称: defaultQuestionGraphicsHeaderViewCell
+文件: [旧 EveantTableViewCell <--> 新 EBYLayoutScreenCell]    函数名称: enterEveantTableViewCell
+文件: [旧 EveantTableViewCell <--> 新 EBYLayoutScreenCell]    函数名称: goodsCommentEveantTableViewCell
+文件: [旧 EveantTableViewCell <--> 新 EBYLayoutScreenCell]    函数名称: _freeNumberClick
+文件: [旧 EveantTableViewCell <--> 新 EBYLayoutScreenCell]    函数名称: _enterElevtClick
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: count -> prime
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: path -> rmblabel
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: atts -> gund
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: atts -> gund5
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: collectionViewW -> descript
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: W -> pnew_w
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: destColumn -> now
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: minColumnHeight -> lines
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: columnHeight -> msg
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: X -> seconds
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: Y -> table
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: H -> frame_ck
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: maxColumnHeight -> minimum
+文件: [旧 UICollectionViewWaterLayout <--> 新 XUOChat] 局部变量: columnHeight -> msgG
+文件: [旧 MyItemdata <--> 新 MBufferPlay] 局部变量: table -> show
+文件: [旧 MyItemdata <--> 新 MBufferPlay] 局部变量: table -> show
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: AccountToken -> t_animation
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: headers -> shou
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: sign -> orientation
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: arr -> picked
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: filem -> sum
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: digit -> task
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: theme -> section
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: finish -> random
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: tablee -> converted
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: amountW -> lines
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: test -> listen
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: now -> layout
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: max_b0 -> change
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: symbol -> reusable
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: bodyImage -> timersImage
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: codingg -> strN
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: pro -> eveant
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: input -> taskO
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: eaderR -> action
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: type_pp -> gressb
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: timer -> size_u
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: root -> fromR
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: utilsa -> eveante
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: q_layerQ -> data
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: set -> preferred
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: scene_b -> subring
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: app -> third
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: utils -> month
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: purchase -> total
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: cover -> holderlabel
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: ssistantB -> setting
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: resolutionH -> thirdO
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: bodyImage -> timersImage
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: urlString -> strj
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: AccountToken -> t_animation
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: headers -> shou
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: avatars -> button
+文件: [旧 NetAlamofire <--> 新 LDraw] 局部变量: lines -> chuang
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: wait_time_ms -> creat
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: ret -> urls
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: realloc_ret -> speeds
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: userInfo -> left
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: ret -> urlsk
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: gain -> calendar
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: result -> observations
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: gain -> calendarE
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: result -> observations1
+文件: [旧 NLSPlayAudio <--> 新 EElevt] 局部变量: status -> result
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: d_image -> aymentImage
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: e_count -> two
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: vip -> margin
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: tap -> convert
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: cancel -> completionCel
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: rawing -> water
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: context -> application
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: find -> top
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: param -> control
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: playing -> info
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: json -> num
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: statues -> change
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: restore -> ylabel
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: button -> editButton
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: chat -> path
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: recordingv -> cellsView
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: userdata -> terminate
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: query -> qlabel
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: picker -> endG
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: date -> collect
+文件: [旧 MySpeeds <--> 新 EYNormal] 局部变量: statues -> change
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: param -> control
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: animation -> namelabel
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: param -> control
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: AccountToken -> t_animation
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: param -> control
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: param -> control
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: header -> hourlabelHeader
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: userInfo -> left
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: actionSheet -> mintiuelabel
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: cancelAction -> rawing
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: okAction -> top
+文件: [旧 MyResponse <--> 新 ZENavigation] 局部变量: count -> prime
+文件: [旧 TabBarViewController <--> 新 ROUserHomeController] 局部变量: itemsVC -> needsController
+文件: [旧 TabBarViewController <--> 新 ROUserHomeController] 局部变量: tabbarItem -> socketItem
+文件: [旧 TabBarViewController <--> 新 ROUserHomeController] 局部变量: vc -> detectionController
+文件: [旧 TabBarViewController <--> 新 ROUserHomeController] 局部变量: unselectedAttributes -> the
+文件: [旧 TabBarViewController <--> 新 ROUserHomeController] 局部变量: selectedAttributes -> call
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: payManager -> sublyout
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: onceToken -> value
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: nsset -> orientation
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: request -> picker
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: jsonStr -> c_object
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: recepitURL -> itemdata
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: receipt -> look
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: error -> configuration
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: requestContents -> navigation
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: requestData -> itemdatac
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: storeURL -> objz
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: storeRequest -> cont
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: session -> size_0j
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: task -> d_count
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: jsonResponse -> check
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: status -> result
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: productId -> banner
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: pending_renewal_info -> handlel
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: latest_pending_renewal_dic -> socket
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: latest_receipt_ary -> zhidinges
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: invoke -> default_fy
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: expires_date_ms -> user
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: nowTime -> shou
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: last_dic -> agreent
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: expires_date_ms -> userr
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: product -> purchased
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: p -> vip
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: transactions -> yloading
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: transaction -> tablee
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: originalTransaction -> titlelabel
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: receiptData -> expire
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: latestReceiptInfo -> handler
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: expirationDateStr -> sepak
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: dateFormatter -> left
+文件: [旧 ZKPayment <--> 新 RKWater] 局部变量: expirationDate -> edge
+文件: [旧 MyShowImage <--> 新 VChatChange] 局部变量: displayIndex -> control
+文件: [旧 MyShowImage <--> 新 VChatChange] 局部变量: datas -> onews
+文件: [旧 MyShowImage <--> 新 VChatChange] 局部变量: data -> draw
+文件: [旧 MyShowImage <--> 新 VChatChange] 局部变量: imageURL -> speed
+文件: [旧 MyShowImage <--> 新 VChatChange] 局部变量: browser -> descript
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: length -> message
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView] 局部变量: sublyout -> holderlabel
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView] 局部变量: param -> control
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView] 局部变量: object -> ditObject
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView] 局部变量: cell -> chuangCell
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView] 局部变量: object -> ditObject
+文件: [旧 BaShouHeaderView <--> 新 QMRItemsDelegateView] 局部变量: object -> ditObject
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: scrollV -> descView
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: startPoint -> ring
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: endPoint -> cover
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: startIndex -> dict
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: endIndex -> deletebutton
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: cell -> chuangCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: timers -> draw
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: cell -> chuangCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: cell -> chuangCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: offsetX -> drawz
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: cell -> chuangCell
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: origin -> flow
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: delta -> navigation
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: originCellFrame -> user
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: leftRightInset -> t_image
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: topBottomInset -> clear
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: offsetY -> hourlabel
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: theCenter -> coverC
+文件: [旧 PageFlowView <--> 新 HHomeNavigationView] 局部变量: pageIndex -> creationbutton
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: request -> picker
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: desclabel -> sourceLabel
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: recognizedText -> lines
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: requestHandler -> record
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: keywords -> phonebutton
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: convertedImage -> attsImage
+文件: [旧 UploadImageController <--> 新 YYRelationItemsController] 局部变量: imagePicker -> first
+文件: [旧 CardController <--> 新 DItemController] 局部变量: unselected -> goods
+文件: [旧 CardController <--> 新 DItemController] 局部变量: did -> w_center
+文件: [旧 CardController <--> 新 DItemController] 局部变量: download -> statues
+文件: [旧 CardController <--> 新 DItemController] 局部变量: vc -> detectionController
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController] 局部变量: topSafeArea -> index
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController] 局部变量: chatVC -> textController
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController] 局部变量: chatVC2 -> setting
+文件: [旧 MainViewController <--> 新 AAlamofireSpeedsController] 局部变量: vc -> detectionController
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: match -> array
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: dic -> flow
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: vc -> detectionController
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: timeStr -> disconnect
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: dic -> flow
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: object -> ditObject
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: list -> picture
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: line -> msg
+文件: [旧 YYloadingViewController <--> 新 IEVRingAbleController] 局部变量: elevtVC -> addressController
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: lishi -> speech
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: dic -> flow
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: elevtVC -> addressController
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: dic -> flow
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: obj -> timelabelObj
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: dic -> flow
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: timeStr -> disconnect
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: accountNum -> member
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: str -> yloading
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: dic -> flow
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: object -> ditObject
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: items -> application
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: indexPath -> userdata
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: fixedWidth -> scene_e
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: newSize -> auto_t9
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: header -> hourlabelHeader
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: object -> ditObject
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: like -> n_title
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: cell -> chuangCell
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: elevtVC -> addressController
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: object -> ditObject
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: object -> ditObject
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: collects -> like
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: elevtVC -> addressController
+文件: [旧 ChatViewController <--> 新 EZNTableController] 局部变量: cardVC -> answerController
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: timeStr -> disconnect
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: accountNum -> member
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: str -> yloading
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: dic -> flow
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: object -> ditObject
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: lishi -> speech
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: items -> application
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: indexPath -> userdata
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: fixedWidth -> scene_e
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: newSize -> auto_t9
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: dic -> flow
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: header -> hourlabelHeader
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: object -> ditObject
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: like -> n_title
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: cell -> chuangCell
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: elevtVC -> addressController
+文件: [旧 ChatNormalController <--> 新 DNChatController] 局部变量: object -> ditObject
+文件: [旧 CreationResultController <--> 新 WITextController] 局部变量: timeStr -> disconnect
+文件: [旧 CreationResultController <--> 新 WITextController] 局部变量: accountNum -> member
+文件: [旧 CreationResultController <--> 新 WITextController] 局部变量: str -> yloading
+文件: [旧 CreationResultController <--> 新 WITextController] 局部变量: pasteboard -> boardy
+文件: [旧 EditCreatViewController <--> 新 PBHomeController] 局部变量: elevtVC -> addressController
+文件: [旧 EditCreatViewController <--> 新 PBHomeController] 局部变量: creationVC -> ableController
+文件: [旧 ChuangDetailsTextCell <--> 新 KReusableUserCell] 局部变量: notificationData -> seconds
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: param -> control
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: param -> control
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: sublyout -> holderlabel
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: replaceView -> restoreView
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: dictLabel -> labelLabel
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: items -> application
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: createType -> threshold
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: obj -> timelabelObj
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: dic -> flow
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: chat -> path
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: newCell -> waterCell
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: dictLabel -> labelLabel
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: items -> application
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: createType -> threshold
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: obj -> timelabelObj
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: dic -> flow
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: items -> application
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: dictLabel -> labelLabel
+文件: [旧 ChuangNewController <--> 新 XEBufferResultController] 局部变量: createType -> threshold
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: vc -> detectionController
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: webVC -> ringController
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: actionSheet -> mintiuelabel
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: cancelAction -> rawing
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: okAction -> top
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: count -> prime
+文件: [旧 SettingViewController <--> 新 PCTUploadController] 局部变量: cell -> chuangCell
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: param -> control
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: topSafeArea -> index
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: flowLayout -> subring
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: currentDate -> scrollS
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: calendar -> calendarZ
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: timeInterval -> did
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: url -> compressed
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: order_sn -> type_rh
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: webVC -> ringController
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: endDate -> volume
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: timeLeft -> desc
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: hours -> nickname
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: minutes -> sign
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: seconds -> has
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: request -> picker
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: array -> back
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: cell -> chuangCell
+文件: [旧 ElevtViewController <--> 新 MXYloadingController] 局部变量: model -> sheet
+文件: [旧 AudioViewController <--> 新 YOPictureController] 局部变量: value -> item
+文件: [旧 AudioViewController <--> 新 YOPictureController] 局部变量: flowLayout -> subring
+文件: [旧 AudioViewController <--> 新 YOPictureController] 局部变量: cell -> chuangCell
+文件: [旧 AddViewController <--> 新 RGItemDetailsController] 局部变量: flowLayout -> subring
+文件: [旧 AddViewController <--> 新 RGItemDetailsController] 局部变量: param -> control
+文件: [旧 AddViewController <--> 新 RGItemDetailsController] 局部变量: cell -> chuangCell
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController] 局部变量: imagePicker -> first
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController] 局部变量: param -> control
+文件: [旧 EditUserViewController <--> 新 GWGNormalGraphicsController] 局部变量: vc -> detectionController
+文件: [旧 RelationViewController <--> 新 QBSpeedsCanvasController] 局部变量: pasteboard -> boardy
+文件: [旧 WKWebViewController <--> 新 PBChatDelegateController] 局部变量: request -> picker
+文件: [旧 WKWebViewController <--> 新 PBChatDelegateController] 局部变量: myRequest -> alabel
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: url -> compressed
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: order_sn -> type_rh
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: model -> sheet
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: cell -> chuangCell
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: param -> control
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: pageFlowView -> alamofireView
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: flowLayout -> subring
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: array -> back
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: request -> picker
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: webVC -> ringController
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: obj -> timelabelObj
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: bannerView -> messageView
+文件: [旧 PointViewController <--> 新 EEveantChuangController] 局部变量: obj -> timelabelObj
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: sublyout -> holderlabel
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: vc -> detectionController
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: pointVC -> userdataController
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: collectVC -> p_countController
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: pasteboard -> boardy
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: endIndex -> deletebutton
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: substring -> enter
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: elevtVC -> addressController
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: dit -> the
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: cell -> chuangCell
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: webVC -> ringController
+文件: [旧 MineViewController <--> 新 OPScreenDetailsController] 局部变量: vc -> detectionController
+文件: [旧 FeedbackController <--> 新 PAymentController] 局部变量: imagePicker -> first
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController] 局部变量: contentStr -> layout
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController] 局部变量: collects -> like
+文件: [旧 CollectionViewController <--> 新 ERegisterModityController] 局部变量: cell -> chuangCell
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: param -> control
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: array -> back
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: sublyout -> holderlabel
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: offset_y -> aimage
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: model -> sheet
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: cell -> chuangCell
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: firstImageUrl -> normal
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: url -> compressed
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: model -> sheet
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: param -> control
+文件: [旧 DrawTableViewController <--> 新 YBDRelationController] 局部变量: vc -> detectionController
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: sublyout -> holderlabel
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: param -> control
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: array -> back
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: model -> sheet
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: cell -> chuangCell
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: firstImageUrl -> normal
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: url -> compressed
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: model -> sheet
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: param -> control
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: vc -> detectionController
+文件: [旧 DrawRecordViewController <--> 新 YFirstNormalController] 局部变量: offset_y -> aimage
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController] 局部变量: dit -> the
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController] 局部变量: vc -> detectionController
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController] 局部变量: sublyout -> holderlabel
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController] 局部变量: dit -> the
+文件: [旧 DrawBasicViewController <--> 新 HJEveantLoadingController] 局部变量: cell -> chuangCell
+文件: [旧 DrawViewController <--> 新 SPointRegisterController] 局部变量: offset_x -> self_vk
+文件: [旧 DrawViewController <--> 新 SPointRegisterController] 局部变量: topSafeArea -> index
+文件: [旧 DrawViewController <--> 新 SPointRegisterController] 局部变量: bottomSafe -> utilsa
+文件: [旧 DrawViewController <--> 新 SPointRegisterController] 局部变量: tableVC -> rowsController
+文件: [旧 DrawViewController <--> 新 SPointRegisterController] 局部变量: basicVC -> visibleController
+文件: [旧 DrawViewController <--> 新 SPointRegisterController] 局部变量: proVC -> browserController
+文件: [旧 CanvasViewController <--> 新 VHRelationController] 局部变量: vc -> detectionController
+文件: [旧 CanvasViewController <--> 新 VHRelationController] 局部变量: data -> draw
+文件: [旧 CanvasViewController <--> 新 VHRelationController] 局部变量: image -> textImage
+文件: [旧 CanvasViewController <--> 新 VHRelationController] 局部变量: sublyout -> holderlabel
+文件: [旧 CanvasViewController <--> 新 VHRelationController] 局部变量: cell -> chuangCell
+文件: [旧 CanvasViewController <--> 新 VHRelationController] 局部变量: cell -> chuangCell
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController] 局部变量: param -> control
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController] 局部变量: sublyout -> holderlabel
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController] 局部变量: object -> ditObject
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController] 局部变量: vc -> detectionController
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController] 局部变量: object -> ditObject
+文件: [旧 BaShouViewController <--> 新 NGHTextShouController] 局部变量: cell -> chuangCell
+文件: [旧 FirstViewController <--> 新 WFIScreenController] 局部变量: sublyout -> holderlabel
+文件: [旧 FirstViewController <--> 新 WFIScreenController] 局部变量: cell -> chuangCell
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController] 局部变量: body -> handle
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController] 局部变量: status -> resultA
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController] 局部变量: picked -> top
+文件: [旧 PhoneLoginController <--> 新 GSLPageRegisterController] 局部变量: token -> path
+文件: [旧 AIdaTableViewCell <--> 新 ONKItemsCell] 局部变量: pasteboard -> boardy
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动随机生成属性并插入头文件和源文件。。。。。。。
+[old: UICollectionViewWaterLayout -> new: XUOChat] insert  @property(nonatomic, copy)NSArray *  chuangThemeArray;
+@property(nonatomic, copy)NSArray *  socketHasNicknamelabel_list;
+@property(nonatomic, assign)BOOL  can_The;
+
+[old: NLSRingBuffer -> new: SRelationRegister] insert  @property(nonatomic, assign)double  titlelabel_min;
+@property(nonatomic, assign)NSInteger  browserMark;
+
+[old: ViewController -> new: KAbleController] insert  var nicknamelabel_space: Double = 0.0
+private var stringMargin: Double = 0.0
+var playSpace: Double = 0.0
+
+[old: PrefixHeader -> new: SRecordSocketHeader] insert  var statusPadding: Float = 0.0
+var canQheader: Bool = false
+var code_idx: Int = 0
+var picked_count: Int = 0
+
+[old: UICollectionViewWaterLayout -> new: XUOChat] insert  @property(nonatomic, copy)NSString *  canvasRateItleString;
+@property(nonatomic, assign)int  did_sum;
+
+[old: Itemdata -> new: GIZNavigationFlow] insert  private var url_size: Float = 0.0
+var informationPadding: Float = 0.0
+private var startContentPasteboard_string: String!
+var phonebuttonMax: Float = 0.0
+
+[old: MyItemdata -> new: MBufferPlay] insert  var remarkIdx: Int = 0
+var img_size: Float = 0.0
+var candidateStrPageMap: [String: Any]!
+private var restoreIndex: Int = 0
+
+[old: NetAlamofire -> new: LDraw] insert  private var numberLayerMap: [String: Any]!
+private var shouMainString: String?
+
+[old: NLSRingBuffer -> new: SRelationRegister] insert  @property(nonatomic, assign)NSInteger  elevtMark;
+@property(nonatomic, assign)NSInteger  has_index;
+@property(nonatomic, assign)long  two_mark;
+
+[old: NLSPlayAudio -> new: EElevt] insert  @property(nonatomic, assign)float  theme_size;
+@property(nonatomic, assign)long  cellsCount;
+@property(nonatomic, copy)NSArray *  sizelabelDrawInstance_Array;
+
+[old: MySpeeds -> new: EYNormal] insert  var contentInset_dict: [String: Any]?
+var main_q: Double = 0.0
+var aidaSpeedPrompt_map: [String: Any]?
+
+[old: MySpeeds -> new: EYNormal] insert  private var action_min: Double = 0.0
+var contentSize: Float = 0.0
+private var bottomRotateDict: [String: Any]!
+var restoreCurrentFree_list: [Any]!
+
+[old: MyResponse -> new: ZENavigation] insert  var appearanceTitleDitString: String!
+var fnews_padding: Double = 0.0
+var midnight_max: Double = 0.0
+var columnMax: Float = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var gundongMax: Float = 0.0
+var buttonRateCenter_str: String?
+var orientationChannelBottom_str: String!
+var hasBtn: Bool = false
+
+[old: MyResponse -> new: ZENavigation] insert  var compressedSize: Float = 0.0
+var q_layer: Bool = false
+
+[old: MyResponse -> new: ZENavigation] insert  var yloading_min: Double = 0.0
+var lishi_space: Double = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var backSpace: Float = 0.0
+var isGress: Bool = false
+
+[old: MyResponse -> new: ZENavigation] insert  var is_Details: Bool = false
+var detailMin: Double = 0.0
+var message_idx: Int = 0
+
+[old: MyResponse -> new: ZENavigation] insert  var change_sum: Int = 0
+var j_view: Double = 0.0
+var relationTotalMsg_str: String!
+var canDic: Bool = false
+
+[old: MyResponse -> new: ZENavigation] insert  var collect_size: Double = 0.0
+var interval_m: Double = 0.0
+var flowCalendarString: String!
+
+[old: MyResponse -> new: ZENavigation] insert  var parameter_margin: Float = 0.0
+var statuesContenString: String!
+var photoUpload_string: String!
+
+[old: MyResponse -> new: ZENavigation] insert  var has_Engine: Bool = false
+var contextDownloadStr: String?
+var utils_offset: Float = 0.0
+var random_size: Double = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var rootSize: Float = 0.0
+var single_space: Double = 0.0
+var isDelta: Bool = false
+var response_max: Double = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var mintiuelabel_padding: Float = 0.0
+var interval_h2: Double = 0.0
+var speech_index: Int = 0
+var restorePadding: Double = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var btnScreenAtts_string: String?
+var recognitionSpace: Float = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var font_margin: Double = 0.0
+var show_r: Float = 0.0
+
+[old: MyResponse -> new: ZENavigation] insert  var imgSpace: Float = 0.0
+var register_b6: Double = 0.0
+var present_offset: Double = 0.0
+var relation_padding: Double = 0.0
+
+[old: NavigationViewController -> new: MZTextController] insert  var contextMax: Double = 0.0
+private var timelabelPadding: Float = 0.0
+
+[old: TabBarViewController -> new: ROUserHomeController] insert  var bottomSize: Double = 0.0
+private var themeMax: Double = 0.0
+var alphaSize_eYlabelMap: [String: Any]?
+private var itemWriteBeforeDict: [String: Any]!
+
+[old: MySocket -> new: RPCollectionMine] insert  var json_offset: Float = 0.0
+private var i_alpha: Bool = false
+var comeHoursThird_map: [String: Any]!
+var finishBasicResourcesMap: [String: Any]!
+
+[old: MyShowImage -> new: VChatChange] insert  var default_rTapDict: [String: Any]!
+private var can_Phonelabel: Bool = false
+private var speakChatsCreation_string: String!
+var aymentPlayArrStr: String?
+
+[old: AppDelegate -> new: AppDelegate] insert  private var mineMax: Double = 0.0
+var prefix_u1CollectsPointDictionary: [String: Any]!
+
+[old: BaShouHeaderView -> new: QMRItemsDelegateView] insert  private var speedRotate_Array: [Any]?
+var didFlowAlabelList: [Any]?
+private var first_size: Double = 0.0
+private var isGraphics: Bool = false
+
+[old: CardView -> new: OIOllectionView] insert  private var has_Audio: Bool = false
+private var constraintClass_nxMap: [String: Any]?
+var screen_space: Float = 0.0
+
+[old: PageFlowView -> new: HHomeNavigationView] insert  private var parameterMin: Double = 0.0
+var remove_mark: Int = 0
+var ollection_max: Double = 0.0
+
+[old: ElevtCardView -> new: GXTableView] insert  var sublyout_max: Double = 0.0
+private var g_layer: Float = 0.0
+
+[old: ChuangNewReusableView -> new: APNUserView] insert  private var nameSpace: Double = 0.0
+var placeholderlabel_padding: Double = 0.0
+private var has_Success: Bool = false
+var rowValidate_dict: [String: Any]!
+
+[old: UploadImageController -> new: YYRelationItemsController] insert  var enbaleRemove: Bool = false
+private var utils_margin: Float = 0.0
+private var class_u: Float = 0.0
+private var bannerToolString: String?
+
+[old: CardController -> new: DItemController] insert  private var minimumCanvasMinutesDict: [String: Any]?
+var navigationSecondsNumlabelString: String?
+private var graphics_space: Double = 0.0
+
+[old: MainViewController -> new: AAlamofireSpeedsController] insert  private var headersPadding: Double = 0.0
+private var canSymbol: Bool = false
+private var linesCount: Int = 0
+private var placeholderlabelTag: Int = 0
+
+[old: YYloadingViewController -> new: IEVRingAbleController] insert  var regionFlag: Int = 0
+var playing_count: Int = 0
+private var preferredUrlResume_Array: [Any]!
+
+[old: ChatViewController -> new: EZNTableController] insert  private var has_Gif: Bool = false
+var bundle_max: Double = 0.0
+
+[old: ChatNormalController -> new: DNChatController] insert  var qheaderParametersRoot_string: String!
+var unselected_margin: Double = 0.0
+var styleUrl_Array: [Any]!
+
+[old: CreationResultController -> new: WITextController] insert  private var value_min: Float = 0.0
+private var rootQueueFeedback_str: String!
+var loadMark: Int = 0
+
+[old: EditCreatViewController -> new: PBHomeController] insert  var third_max: Double = 0.0
+private var example_tag: Int = 0
+var decibelStr_list: [Any]?
+private var dictMinutesArray: [Any]!
+
+[old: ChuangDetailsItemsCell -> new: ZDetailsChangeCell] insert  private var ollectionAgreentVip_string: String!
+private var completion_size: Double = 0.0
+private var nextAlabel_dict: [String: Any]?
+var oneUrl_dict: [String: Any]!
+
+[old: CZTableViewCell -> new: VRingCreatCell] insert  private var ringDeltaDictionary: [String: Any]?
+private var recognitionCount: Int = 0
+
+[old: CZTitleCollectionViewCell -> new: ATEditCell] insert  private var speed_max: Float = 0.0
+var can_Normal: Bool = false
+private var coverDict_map: [String: Any]!
+var stringMargin: Double = 0.0
+
+[old: ChuangDetailsTextCell -> new: KReusableUserCell] insert  var controlPointlabelList: [Any]!
+private var navCompressedDictionaryString: String!
+private var resourcesSize: Double = 0.0
+var arrayIdx: Int = 0
+
+[old: ChuangDetailsChangeCell -> new: TVSpeedsOllectionCell] insert  var displayPointConfirmArr: [Any]!
+private var detailsTag: Int = 0
+
+[old: ChuangNewController -> new: XEBufferResultController] insert  private var d_center: Int = 0
+var downloadSortInstance_string: String!
+
+[old: AppVipModel -> new: ZSCreationHome] insert  var pasteboardSpace: Double = 0.0
+var applicationFirst_string: String?
+
+[old: AppVipModel -> new: ZSCreationHome] insert  var urlAttsFeedbackStr: String!
+var marginTag: Int = 0
+
+[old: SettingViewController -> new: PCTUploadController] insert  private var sliderSize: Float = 0.0
+private var enbale_Hours: Bool = false
+
+[old: ElevtViewController -> new: MXYloadingController] insert  var checkHas_str: String!
+var paramSpeechDict: [String: Any]?
+var stylelabel_padding: Double = 0.0
+var layoutBundleMap: [String: Any]?
+
+[old: AudioViewController -> new: YOPictureController] insert  var contentTrue_qDeltaDictionary: [String: Any]?
+private var shuMargin: Float = 0.0
+private var resourcesCount: Int = 0
+private var has_Decibel: Bool = false
+
+[old: AddViewController -> new: RGItemDetailsController] insert  var failedSilenceRecordStr: String?
+var update_6: Double = 0.0
+private var creatAgreent_str: String?
+
+[old: EditUserViewController -> new: GWGNormalGraphicsController] insert  private var applyHeaderString: String!
+var attsUserCandidate_list: [Any]!
+private var message_min: Float = 0.0
+var deltaMin: Double = 0.0
+
+[old: RelationViewController -> new: QBSpeedsCanvasController] insert  private var recordingvMax: Double = 0.0
+private var hasLines: Bool = false
+var voiceDetailString: String!
+
+[old: WKWebViewController -> new: PBChatDelegateController] insert  var generate_idx: Int = 0
+var loading_space: Double = 0.0
+var navSize: Double = 0.0
+private var enbale_Slider: Bool = false
+
+[old: PointViewController -> new: EEveantChuangController] insert  var deltaSafeArr: [Any]?
+var shouAppNicknameString: String?
+
+[old: MineViewController -> new: OPScreenDetailsController] insert  private var urlsOllection_string: String!
+var hasSum: Int = 0
+
+[old: FeedbackController -> new: PAymentController] insert  var enbale_Aimage: Bool = false
+private var canZhidinges: Bool = false
+
+[old: CollectionViewController -> new: ERegisterModityController] insert  private var collection_count: Int = 0
+private var threshold_margin: Double = 0.0
+var resumption_size: Double = 0.0
+
+[old: DrawTableViewController -> new: YBDRelationController] insert  var rotateString_str: String?
+private var collects_j: Double = 0.0
+var delegate_o: Bool = false
+var graphicsWeixinlabelStr: String?
+
+[old: DrawRecordViewController -> new: YFirstNormalController] insert  private var prefix_ur: Double = 0.0
+var is_Prompt: Bool = false
+
+[old: DrawBasicViewController -> new: HJEveantLoadingController] insert  var textAnimationTop_dictionary: [String: Any]?
+var sureArray: [Any]?
+var urls_max: Double = 0.0
+
+[old: DrawTypeViewCell -> new: ZPhoneCell] insert  var accountlabelTheme_string: String?
+private var enbale_Itle: Bool = false
+
+[old: CanvasCollectionViewCell -> new: CZCreationDelegateCell] insert  var bottom_padding: Double = 0.0
+private var homeSize: Double = 0.0
+
+[old: PictureViewCell -> new: ITDelegateCell] insert  private var generate_min: Double = 0.0
+var againMargin: Double = 0.0
+var convertedMin: Double = 0.0
+private var purchasedSpace: Float = 0.0
+
+[old: DrawViewController -> new: SPointRegisterController] insert  var paramCreationbuttonLoadList: [Any]?
+var contIdx: Int = 0
+
+[old: CanvasViewController -> new: VHRelationController] insert  var offsetVisibleDict: [String: Any]!
+private var midnightFindDigitString: String!
+
+[old: BaShouViewController -> new: NGHTextShouController] insert  private var waterScrollNew_kg_dict: [String: Any]?
+private var timersTitlelabel_list: [Any]?
+
+[old: FirstCollectionViewCell -> new: EOllectionPlayCell] insert  var u_count: Bool = false
+var pageMin: Double = 0.0
+
+[old: FirstViewController -> new: WFIScreenController] insert  private var lineControlStr: String?
+var compressed_min: Double = 0.0
+var headerIndex: Int = 0
+
+[old: PhoneLoginController -> new: GSLPageRegisterController] insert  private var sumOffset_list: [Any]!
+var matchMax: Float = 0.0
+private var collectlabel_tag: Int = 0
+
+[old: MineTableViewCell -> new: ZQItleItemsCell] insert  var sceneValidateAvatars_dictionary: [String: Any]!
+private var loginRequestChangeArray: [Any]!
+private var itleUrlUserArray: [Any]?
+
+[old: BaShouHeaderViewCell -> new: IWDGraphicsItemsCell] insert  private var fileItemdataPrivacy_dictionary: [String: Any]!
+var knewsSpace: Double = 0.0
+
+[old: YuYinClassCollectionCell -> new: JBufferAymentCell] insert  var isdrawMessagesOffsetDict: [String: Any]?
+private var screen_padding: Double = 0.0
+private var statuslabel_size: Double = 0.0
+private var rmblabelExampleIsdraw_str: String!
+
+[old: NewItemCollectionCell -> new: OQChatAbleCell] insert  var album_size: Double = 0.0
+private var editPadding: Double = 0.0
+private var commentRecognizedList: [Any]!
+var cellPricelabel_str: String?
+
+[old: PointCollectionViewCell -> new: DSNewsCreatCell] insert  private var cellStringDatas_string: String!
+var enbaleBrowser: Bool = false
+private var hasSize: Double = 0.0
+private var pickedRecordingvMsgString: String?
+
+[old: BaShouCollectionViewCell -> new: XQMainYloadingCell] insert  var navPlayerString: String!
+private var enbaleAimage: Bool = false
+var item_index: Int = 0
+var screenInformation_str: String?
+
+[old: MineCollectionViewCell -> new: WIXAlamofireCell] insert  var enbale_Button: Bool = false
+private var gnewsEndElevt_str: String?
+
+[old: MeQTableViewCell -> new: UJLScreenPlayCell] insert  private var successSmallLayoutDictionary: [String: Any]!
+private var pictureMin: Double = 0.0
+var navgationQueueString: String!
+private var int_4: Int = 0
+
+[old: AIdaTableViewCell -> new: ONKItemsCell] insert  private var expireOffset: Float = 0.0
+var chuangHandlePurchased_dict: [String: Any]?
+
+[old: ChatHeaderViewCell -> new: WZGraphicsCell] insert  private var drawCenterPasteboardArr: [Any]?
+private var eveantAuto_qRowsString: String!
+private var cover_count: Int = 0
+private var inputOneCenter_string: String!
+
+[old: AudioCollectionViewCell -> new: SBChuangCell] insert  private var keywords_max: Double = 0.0
+var pageInformationEaderMap: [String: Any]!
+private var editPath_map: [String: Any]?
+var sureLabelList: [Any]?
+
+[old: GraphicsTableViewCell -> new: DAbleNavigationCell] insert  private var phone_size: Double = 0.0
+private var msg_padding: Double = 0.0
+private var failed_min: Double = 0.0
+var hasHolderlabel: Bool = false
+
+[old: ChuangNewCollectionCell -> new: WGMSpeedsCell] insert  private var number_space: Float = 0.0
+private var audioChuangMap: [String: Any]?
+private var matchCreationSymbol_str: String!
+var gundong_mark: Int = 0
+
+[old: SettingTableViewCell -> new: ZXRDelegatePrefixCell] insert  var rootOffset: Double = 0.0
+private var canEdit: Bool = false
+var string_max: Double = 0.0
+private var randomCells_str: String?
+
+[old: GraphicsHeaderViewCell -> new: HBUYloadingCreationCell] insert  var widthKeyCollect_arr: [Any]!
+private var infoMemberList: [Any]?
+private var loginPreferred_str: String?
+
+[old: ElevtCollectionViewCell -> new: NBTextCell] insert  private var refresh_max: Double = 0.0
+var networkSocketStr: String!
+
+[old: YuYinCollectionViewCell -> new: OBNewsCell] insert  var responsePhone_dictionary: [String: Any]?
+private var compressedSum: Int = 0
+var water_space: Float = 0.0
+
+[old: EveantTableViewCell -> new: EBYLayoutScreenCell] insert  private var timersSort_str: String!
+private var settingMark: Int = 0
+private var enbale_Chat: Bool = false
+private var drawSize: Double = 0.0
+
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://madd.jiaodelong.top/api"
+"https://v17geq2z088.feishu.cn/docx/OawOdyd6hoAIycxAjKcc1bkanDf?from=from_copylink"
+"https://v17geq2z088.feishu.cn/docx/GR3zdirsHohJVtxze9CcmQRznDJ?from=from_copylink"
+"https://v17geq2z088.feishu.cn/docx/SjFrdXSXVo0Bz5x1ic2c96Ren0c?from=from_copylink"
+@"https://sandbox.itunes.apple.com/verifyReceipt"
+@"https://buy.itunes.apple.com/verifyReceipt"
+@"https://sandbox.itunes.apple.com/verifyReceipt"
+"https://oss.yhxykj.com/im-prod/img/17_6.png"
+"https://oss.yhxykj.com/im-prod/img/17_1.png"
+"https://oss.yhxykj.com/im-prod/img/17_2.png"
+"https://oss.yhxykj.com/im-prod/img/17_3.png"
+"https://oss.yhxykj.com/im-prod/img/17_4.png"
+"https://oss.yhxykj.com/im-prod/img/17_5.png"
+"https://oss.yhxykj.com/im-prod/img/17_6.png"
+
+
+开始自动混淆函数名称。。。。。。。
+文件: [旧 NLSRingBuffer <--> 新 SRelationRegister]函数名:   ringbuffer_get_write_index <---替换为---> fileResourceChooseChatHandleProduct
+文件: [旧 NLSRingBuffer <--> 新 SRelationRegister]函数名:   ringbuffer_get_read_index <---替换为---> audioTwoFind
+文件: [旧 NLSPlayAudio <--> 新 EElevt]函数名:   primePlayQueueBuffers <---替换为---> lookCountZoomRateCommit
+文件: [旧 NLSPlayAudio <--> 新 EElevt]函数名:   sendDecibelValueNotification <---替换为---> invalidateComponentDuckIdentityFrom
+文件: [旧 MySpeeds <--> 新 EYNormal]函数名:   startSpeakingTimer <---替换为---> firstResultBackgroundGraphicsFullInfinity
+文件: [旧 MySpeeds <--> 新 EYNormal]函数名:   stopSpeakingTimer <---替换为---> amountNoneBaseBody
+文件: [旧 ZKPayment <--> 新 RKWater]函数名:   validateReceiptWithData <---替换为---> detailConstraintCancelVision
+文件: [旧 ZKPayment <--> 新 RKWater]函数名:   failedTransaction <---替换为---> creationPlayerDisconnectReachableMeal
+文件: [旧 ZKPayment <--> 新 RKWater]函数名:   verifyPurchaseWithPaymentTransaction <---替换为---> keyOriginCode
+文件: [旧 ZKPayment <--> 新 RKWater]函数名:   toJsonData <---替换为---> connectionKitSeeOutletNone
+文件: [旧 ZKPayment <--> 新 RKWater]函数名:   handleActionWithType <---替换为---> modalWaitFragmentSign
+文件: [旧 ZKPayment <--> 新 RKWater]函数名:   removeAllUncompleteTransactionBeforeStartNewTransaction <---替换为---> disconnectBufferAppendStandardReset
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌
