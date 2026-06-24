@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="382" id="WKx-yV-5Ka" customClass="WZGraphicsCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="412"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WKx-yV-5Ka" id="Jiy-vK-FDA">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="412"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="recordConfirm" translatesAutoresizingMaskIntoConstraints="NO" id="Hl6-Ph-nuH">
+                        <rect key="frame" x="83.666666666666686" y="20" width="208" height="64"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="207.99" id="CVE-gG-lny"/>
+                            <constraint firstAttribute="height" constant="64.04" id="Pau-Zn-esF"/>
+                        </constraints>
+                    </imageView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uYO-Rx-rAV">
+                        <rect key="frame" x="0.0" y="104" width="375" height="263"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Zi-tf-pXb">
+                                <rect key="frame" x="16" y="0.0" width="343" height="52"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="51.95" id="8cv-LO-b3w"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="drawBannaersecond"/>
+                                <connections>
+                                    <action selector="click:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="4Es-tg-tAq"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jyi-WX-oX8">
+                                <rect key="frame" x="16" y="66" width="343" height="52"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="51.99" id="Kpy-Fd-H7w"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="nextWater"/>
+                                <connections>
+                                    <action selector="click:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="Uq5-XR-C3b"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q5M-iw-QaN">
+                                <rect key="frame" x="16" y="132" width="343" height="52"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="51.97" id="zvd-61-Wfe"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="selectCopycreation"/>
+                                <connections>
+                                    <action selector="click:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="6fU-Q6-Idv"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DhK-0p-zq1">
+                                <rect key="frame" x="16" y="198" width="343" height="52"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="52.03" id="HZK-mP-jTC"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="starkapOpenNavigation"/>
+                                <connections>
+                                    <action selector="click:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="vz2-3o-5u1"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="Jyi-WX-oX8" firstAttribute="top" secondItem="5Zi-tf-pXb" secondAttribute="bottom" constant="13.98" id="kpY-XQ-11F"/>
+                            <constraint firstItem="DhK-0p-zq1" firstAttribute="leading" secondItem="uYO-Rx-rAV" secondAttribute="leading" constant="15.98" id="zLn-mn-qzg"/>
+                            <constraint firstItem="q5M-iw-QaN" firstAttribute="top" secondItem="Jyi-WX-oX8" secondAttribute="bottom" constant="14.01" id="H99-5b-lJ4"/>
+                            <constraint firstItem="Jyi-WX-oX8" firstAttribute="leading" secondItem="uYO-Rx-rAV" secondAttribute="leading" constant="16.03" id="O0M-7h-c9E"/>
+                            <constraint firstAttribute="trailing" secondItem="Jyi-WX-oX8" secondAttribute="trailing" constant="15.99" id="kWU-QV-2uB"/>
+                            <constraint firstAttribute="trailing" secondItem="DhK-0p-zq1" secondAttribute="trailing" constant="15.99" id="sMN-0B-dCf"/>
+                            <constraint firstItem="DhK-0p-zq1" firstAttribute="top" secondItem="q5M-iw-QaN" secondAttribute="bottom" constant="13.99" id="y85-jr-bdq"/>
+                            <constraint firstAttribute="trailing" secondItem="q5M-iw-QaN" secondAttribute="trailing" constant="15.98" id="nqT-Cq-a8z"/>
+                            <constraint firstAttribute="height" constant="262.99" id="61i-bF-Qx2"/>
+                            <constraint firstItem="5Zi-tf-pXb" firstAttribute="top" secondItem="uYO-Rx-rAV" secondAttribute="top" id="3PN-dN-Exk"/>
+                            <constraint firstAttribute="trailing" secondItem="5Zi-tf-pXb" secondAttribute="trailing" constant="15.99" id="utt-1O-QxW"/>
+                            <constraint firstItem="q5M-iw-QaN" firstAttribute="leading" secondItem="uYO-Rx-rAV" secondAttribute="leading" constant="16.02" id="mJr-zD-3aE"/>
+                            <constraint firstItem="5Zi-tf-pXb" firstAttribute="leading" secondItem="uYO-Rx-rAV" secondAttribute="leading" constant="16.01" id="s5g-8D-Cer"/>
+                        </constraints>
+                    </view>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6M5-7r-Upz">
+                        <rect key="frame" x="268" y="367" width="91" height="33"/>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <state key="normal" image="chuangPicture"/>
+                        <connections>
+                            <action selector="changeAction:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="pDm-fH-XJ1"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Hl6-Ph-nuH" firstAttribute="top" secondItem="Jiy-vK-FDA" secondAttribute="top" constant="20.01" id="5Tp-3w-7qL"/>
+                    <constraint firstAttribute="trailing" secondItem="uYO-Rx-rAV" secondAttribute="trailing" id="zAg-Wk-UKu"/>
+                    <constraint firstAttribute="bottom" secondItem="uYO-Rx-rAV" secondAttribute="bottom" constant="45.01" id="cuK-99-EBB"/>
+                    <constraint firstItem="6M5-7r-Upz" firstAttribute="top" secondItem="uYO-Rx-rAV" secondAttribute="bottom" id="UIh-XH-sX5"/>
+                    <constraint firstAttribute="trailing" secondItem="6M5-7r-Upz" secondAttribute="trailing" constant="16.01" id="ANb-xx-E77"/>
+                    <constraint firstItem="uYO-Rx-rAV" firstAttribute="top" secondItem="Jiy-vK-FDA" secondAttribute="top" constant="103.99" id="I6v-W1-0Fp"/>
+                    <constraint firstItem="uYO-Rx-rAV" firstAttribute="leading" secondItem="Jiy-vK-FDA" secondAttribute="leading" id="9of-nT-omW"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.50980392159999999" green="0.50980392159999999" blue="0.50980392159999999" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="Hl6-Ph-nuH" firstAttribute="centerX" secondItem="WKx-yV-5Ka" secondAttribute="centerX" id="h1A-ip-WQn"/>
+            </constraints>
+            <connections>
+                <outlet property="button1" destination="5Zi-tf-pXb" id="Mia-Zf-7Pe"/>
+                <outlet property="button2" destination="Jyi-WX-oX8" id="v2o-r1-uAQ"/>
+                <outlet property="button3" destination="q5M-iw-QaN" id="zIl-gV-qAt"/>
+                <outlet property="button4" destination="DhK-0p-zq1" id="XRp-I0-B7f"/>
+            </connections>
+            <point key="canvasLocation" x="130" y="107.34597156398104"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="chuangPicture" width="91" height="33"/>
+        <image name="recordConfirm" width="208" height="64"/>
+        <image name="drawBannaersecond" width="358" height="57"/>
+        <image name="nextWater" width="358" height="57"/>
+        <image name="selectCopycreation" width="358" height="57"/>
+        <image name="starkapOpenNavigation" width="358" height="57"/>
+    </resources>
+</document>

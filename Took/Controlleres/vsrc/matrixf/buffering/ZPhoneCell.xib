@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="RzA-2r-scz" customClass="ZPhoneCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="110" height="110"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="110" height="110"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="riD-2X-wON">
+                        <rect key="frame" x="0.0" y="0.0" width="110" height="110"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="bvS-4A-dzx"/>
+            <constraints>
+                <constraint firstItem="riD-2X-wON" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" id="Vcs-Pn-UMT"/>
+                <constraint firstAttribute="trailing" secondItem="riD-2X-wON" secondAttribute="trailing" id="XOg-11-MXO"/>
+                <constraint firstItem="riD-2X-wON" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" id="o8F-2q-Qjt"/>
+                <constraint firstAttribute="bottom" secondItem="riD-2X-wON" secondAttribute="bottom" id="lTd-r2-wYJ"/>
+            </constraints>
+            <size key="customSize" width="92" height="77"/>
+            <connections>
+                <outlet property="icon" destination="riD-2X-wON" id="HPm-Rs-Cwi"/>
+            </connections>
+            <point key="canvasLocation" x="161.83206106870227" y="-3.5211267605633805"/>
+        </collectionViewCell>
+    </objects>
+</document>

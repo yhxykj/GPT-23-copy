@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner" customClass="YFirstNormalController" customModule="Bulter" customModuleProvider="target">
+            <connections>
+                <outlet property="bgView" destination="8EB-9g-PLU" id="McK-ca-yTY"/>
+                <outlet property="collectionView" destination="p68-ji-88Y" id="hih-5R-4DQ"/>
+                <outlet property="navHeight" destination="y81-s5-Ms1" id="bHD-Dw-hS8"/>
+                <outlet property="titleView" destination="hta-JO-kZz" id="spo-Jc-6g9"/>
+                <outlet property="view" destination="5M7-xz-hms" id="d8Z-UJ-plH"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="5M7-xz-hms">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="navigationEdit" translatesAutoresizingMaskIntoConstraints="NO" id="8EB-9g-PLU">
+                    <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                </imageView>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="p68-ji-88Y">
+                    <rect key="frame" x="0.0" y="103" width="393" height="749"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="70g-RD-CUX">
+                        <size key="itemSize" width="128" height="128"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="ssP-AL-gVN" id="KWR-0n-Ldj"/>
+                        <outlet property="delegate" destination="ssP-AL-gVN" id="Esy-oN-AX8"/>
+                    </connections>
+                </collectionView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hta-JO-kZz">
+                    <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2lq-WD-51U">
+                            <rect key="frame" x="5" y="0.0" width="55" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="54.98" id="oRU-0L-xTh"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="reusableBufferSave"/>
+                            <connections>
+                                <action selector="backClick:" destination="ssP-AL-gVN" eventType="touchUpInside" id="v8i-R6-O3P"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="绘画记录" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ddA-Ty-8lN">
+                            <rect key="frame" x="159.66666666666666" y="11.666666666666671" width="73.666666666666657" height="21"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="ddA-Ty-8lN" firstAttribute="centerX" secondItem="hta-JO-kZz" secondAttribute="centerX" id="G6Y-P2-DZ6"/>
+                        <constraint firstItem="2lq-WD-51U" firstAttribute="top" secondItem="hta-JO-kZz" secondAttribute="top" id="J49-JV-1qo"/>
+                        <constraint firstAttribute="height" constant="43.99" id="y81-s5-Ms1"/>
+                        <constraint firstAttribute="bottom" secondItem="2lq-WD-51U" secondAttribute="bottom" id="IEj-rm-01k"/>
+                        <constraint firstItem="ddA-Ty-8lN" firstAttribute="centerY" secondItem="hta-JO-kZz" secondAttribute="centerY" id="LKR-Yn-g3T"/>
+                        <constraint firstItem="2lq-WD-51U" firstAttribute="leading" secondItem="hta-JO-kZz" secondAttribute="leading" constant="4.99" id="DbR-vl-7wQ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="wck-my-pQR"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="p68-ji-88Y" secondAttribute="bottom" id="yeG-Ij-kSQ"/>
+                <constraint firstItem="hta-JO-kZz" firstAttribute="top" secondItem="wck-my-pQR" secondAttribute="top" id="Z3e-il-nk9"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="p68-ji-88Y" secondAttribute="trailing" id="Db8-5C-9fW"/>
+                <constraint firstItem="8EB-9g-PLU" firstAttribute="top" secondItem="5M7-xz-hms" secondAttribute="top" id="qrh-ZG-1cJ"/>
+                <constraint firstItem="p68-ji-88Y" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" id="vzJ-Fb-T5C"/>
+                <constraint firstAttribute="bottom" secondItem="8EB-9g-PLU" secondAttribute="bottom" id="oms-kn-Ytb"/>
+                <constraint firstItem="p68-ji-88Y" firstAttribute="top" secondItem="hta-JO-kZz" secondAttribute="bottom" id="UDU-zc-1Fr"/>
+                <constraint firstItem="hta-JO-kZz" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" id="ZGv-eY-bo3"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="8EB-9g-PLU" secondAttribute="trailing" id="AC2-bK-7cd"/>
+                <constraint firstAttribute="trailing" secondItem="hta-JO-kZz" secondAttribute="trailing" id="Vs1-Jd-s1g"/>
+                <constraint firstItem="8EB-9g-PLU" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" id="mZP-L7-b3z"/>
+            </constraints>
+            <point key="canvasLocation" x="130.53435114503816" y="-12.67605633802817"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="navigationEdit" width="390" height="844"/>
+        <image name="reusableBufferSave" width="10" height="17"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

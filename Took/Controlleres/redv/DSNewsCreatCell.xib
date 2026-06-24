@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="RzA-2r-scz" customClass="DSNewsCreatCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="109" height="86"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="109" height="86"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imageResponseHomevoice" translatesAutoresizingMaskIntoConstraints="NO" id="5iQ-pd-gr6">
+                        <rect key="frame" x="0.0" y="0.0" width="109" height="86"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PyF-MO-nJ1">
+                        <rect key="frame" x="36" y="18" width="37.333333333333343" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20.98" id="XeF-xn-ywf"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1yN-6C-9vj">
+                        <rect key="frame" x="33.666666666666664" y="54" width="41.999999999999993" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="24.02" id="1hs-Oq-Wni"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="bvS-4A-dzx"/>
+            <constraints>
+                <constraint firstItem="PyF-MO-nJ1" firstAttribute="centerX" secondItem="RzA-2r-scz" secondAttribute="centerX" id="plg-yp-pOf"/>
+                <constraint firstItem="PyF-MO-nJ1" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" constant="18.02" id="3UC-nq-lhN"/>
+                <constraint firstItem="5iQ-pd-gr6" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" id="5kY-CA-f9Q"/>
+                <constraint firstAttribute="bottom" secondItem="5iQ-pd-gr6" secondAttribute="bottom" id="cDW-K0-VhN"/>
+                <constraint firstAttribute="trailing" secondItem="5iQ-pd-gr6" secondAttribute="trailing" id="n8P-Sk-f7p"/>
+                <constraint firstAttribute="bottom" secondItem="1yN-6C-9vj" secondAttribute="bottom" constant="7.98" id="dcy-Fk-pOS"/>
+                <constraint firstItem="1yN-6C-9vj" firstAttribute="centerX" secondItem="RzA-2r-scz" secondAttribute="centerX" id="7RO-zv-YSm"/>
+                <constraint firstItem="5iQ-pd-gr6" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" id="6Pw-h3-DCi"/>
+            </constraints>
+            <connections>
+                <outlet property="cellImage" destination="5iQ-pd-gr6" id="vog-Et-2kG"/>
+                <outlet property="numberlabel" destination="PyF-MO-nJ1" id="zOU-3s-e0T"/>
+                <outlet property="pricelabel" destination="1yN-6C-9vj" id="W2G-AO-YFA"/>
+            </connections>
+            <point key="canvasLocation" x="131" y="-12"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="imageResponseHomevoice" width="109" height="86"/>
+    </resources>
+</document>

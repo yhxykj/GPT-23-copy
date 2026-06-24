@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="320" id="WKx-yV-5Ka" customClass="DAbleNavigationCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="417" height="320"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WKx-yV-5Ka" id="Jiy-vK-FDA">
+                <rect key="frame" x="0.0" y="0.0" width="417" height="320"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="绘画logo" translatesAutoresizingMaskIntoConstraints="NO" id="Oc1-oT-cpd">
+                        <rect key="frame" x="16" y="16" width="26" height="26"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="26.03" id="WSo-Yl-UzJ"/>
+                            <constraint firstAttribute="width" constant="25.99" id="tf8-RQ-ztD"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="好的" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rgU-dz-AJ3">
+                        <rect key="frame" x="52" y="8" width="308" height="42"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="绘画头" translatesAutoresizingMaskIntoConstraints="NO" id="pig-xN-p1J" customClass="YYAnimatedImageView">
+                        <rect key="frame" x="55" y="67" width="236" height="236"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="pig-xN-p1J" secondAttribute="height" multiplier="1:1" id="JAQ-E0-WGY"/>
+                        </constraints>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ymc-pB-19X">
+                        <rect key="frame" x="335" y="260" width="41" height="41"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="41.02" id="jdr-aq-2qh"/>
+                            <constraint firstAttribute="width" constant="40.98" id="hpy-co-a3G"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <state key="normal" image="删除"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <real key="value" value="20.5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                        <connections>
+                            <action selector="deleteClick:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="C7U-fq-Hwe"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k9M-F0-0WT">
+                        <rect key="frame" x="335" y="179" width="41" height="41"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40.98" id="2KH-iZ-Lhm"/>
+                            <constraint firstAttribute="height" constant="40.96" id="LWQ-Al-8gb"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <state key="normal" image="下载"/>
+                        <connections>
+                            <action selector="download:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="6R3-LN-RoM"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YuW-Kz-3Qa">
+                        <rect key="frame" x="55" y="67" width="236" height="236"/>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <connections>
+                            <action selector="tapImage:" destination="WKx-yV-5Ka" eventType="touchUpInside" id="thr-RF-HSy"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="rgU-dz-AJ3" secondAttribute="trailing" constant="56.95" id="ljP-jS-De3"/>
+                    <constraint firstAttribute="trailing" secondItem="pig-xN-p1J" secondAttribute="trailing" constant="126.01" id="q4T-cY-GrU"/>
+                    <constraint firstItem="pig-xN-p1J" firstAttribute="leading" secondItem="Jiy-vK-FDA" secondAttribute="leading" constant="55.04" id="E5W-eO-Tql"/>
+                    <constraint firstAttribute="trailing" secondItem="Ymc-pB-19X" secondAttribute="trailing" constant="40.99" id="S5x-kk-lm6"/>
+                    <constraint firstItem="YuW-Kz-3Qa" firstAttribute="leading" secondItem="pig-xN-p1J" secondAttribute="leading" id="g1u-uE-CYA"/>
+                    <constraint firstItem="YuW-Kz-3Qa" firstAttribute="top" secondItem="pig-xN-p1J" secondAttribute="top" id="y82-Gx-9QA"/>
+                    <constraint firstItem="YuW-Kz-3Qa" firstAttribute="trailing" secondItem="pig-xN-p1J" secondAttribute="trailing" id="Zvt-rZ-WKa"/>
+                    <constraint firstItem="Ymc-pB-19X" firstAttribute="top" secondItem="k9M-F0-0WT" secondAttribute="bottom" constant="40.02" id="wUV-PX-EHl"/>
+                    <constraint firstAttribute="trailing" secondItem="k9M-F0-0WT" secondAttribute="trailing" constant="41.01" id="tsH-tT-dNJ"/>
+                    <constraint firstItem="rgU-dz-AJ3" firstAttribute="leading" secondItem="Oc1-oT-cpd" secondAttribute="trailing" constant="10.04" id="p2T-rK-WjA"/>
+                    <constraint firstAttribute="bottom" secondItem="pig-xN-p1J" secondAttribute="bottom" constant="17.02" id="4zd-TC-jPm"/>
+                    <constraint firstItem="Oc1-oT-cpd" firstAttribute="top" secondItem="Jiy-vK-FDA" secondAttribute="top" constant="15.98" id="b1p-Ck-oiV"/>
+                    <constraint firstItem="rgU-dz-AJ3" firstAttribute="centerY" secondItem="Oc1-oT-cpd" secondAttribute="centerY" id="Viy-IV-iyb"/>
+                    <constraint firstItem="YuW-Kz-3Qa" firstAttribute="bottom" secondItem="pig-xN-p1J" secondAttribute="bottom" id="Kcc-UH-3Ab"/>
+                    <constraint firstAttribute="bottom" secondItem="Ymc-pB-19X" secondAttribute="bottom" constant="19.01" id="FI0-Rl-DZ5"/>
+                    <constraint firstItem="pig-xN-p1J" firstAttribute="top" secondItem="rgU-dz-AJ3" secondAttribute="bottom" constant="17.02" id="xDo-4M-rQ7"/>
+                    <constraint firstItem="Oc1-oT-cpd" firstAttribute="leading" secondItem="Jiy-vK-FDA" secondAttribute="leading" constant="15.98" id="Cnx-OV-OMI"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="BDJ-Vu-0YW"/>
+            <connections>
+                <outlet property="picImage" destination="pig-xN-p1J" id="iKZ-C1-Qx0"/>
+            </connections>
+            <point key="canvasLocation" x="71.538461538461533" y="86.018957345971558"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="下载" width="41" height="41"/>
+        <image name="删除" width="19" height="20"/>
+        <image name="绘画logo" width="26" height="26"/>
+        <image name="绘画头" width="358" height="223"/>
+    </resources>
+</document>

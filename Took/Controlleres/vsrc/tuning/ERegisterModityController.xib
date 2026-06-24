@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner" customClass="ERegisterModityController" customModule="Took" customModuleProvider="target">
+            <connections>
+                <outlet property="tableView" destination="BCI-on-P0S" id="MgF-8K-TU4"/>
+                <outlet property="view" destination="5M7-xz-hms" id="d8Z-UJ-plH"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="5M7-xz-hms">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DvC-TT-76o">
+                    <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wc5-Qf-h4r">
+                            <rect key="frame" x="0.0" y="0.0" width="55" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="55.039999999999999" id="7rm-Ei-7FY"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="lijiqianjinPointicon"/>
+                            <connections>
+                                <action selector="backAcction:" destination="ssP-AL-gVN" eventType="touchUpInside" id="zIh-HI-AMA"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="收藏" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oa2-lA-162">
+                            <rect key="frame" x="179.33333333333334" y="11.333333333333329" width="34.666666666666657" height="21"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="oa2-lA-162" firstAttribute="centerY" secondItem="DvC-TT-76o" secondAttribute="centerY" id="6XN-GS-9KK"/>
+                        <constraint firstItem="wc5-Qf-h4r" firstAttribute="leading" secondItem="DvC-TT-76o" secondAttribute="leading" id="VZG-kK-eXk"/>
+                        <constraint firstAttribute="height" constant="43.950000000000003" id="Zbw-RW-D1g"/>
+                        <constraint firstAttribute="bottom" secondItem="wc5-Qf-h4r" secondAttribute="bottom" id="ew0-ev-2pU"/>
+                        <constraint firstItem="wc5-Qf-h4r" firstAttribute="top" secondItem="DvC-TT-76o" secondAttribute="top" id="jUm-qh-6Jb"/>
+                        <constraint firstItem="oa2-lA-162" firstAttribute="centerX" secondItem="DvC-TT-76o" secondAttribute="centerX" id="scf-tg-NQ6"/>
+                    </constraints>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="BCI-on-P0S">
+                    <rect key="frame" x="0.0" y="108" width="393" height="744"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <connections>
+                        <outlet property="dataSource" destination="ssP-AL-gVN" id="LTQ-qj-T2N"/>
+                        <outlet property="delegate" destination="ssP-AL-gVN" id="eBG-Fr-yEn"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="wck-my-pQR"/>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="BCI-on-P0S" secondAttribute="trailing" id="HZL-fk-noQ"/>
+                <constraint firstAttribute="bottom" secondItem="BCI-on-P0S" secondAttribute="bottom" id="JyR-8S-iqR"/>
+                <constraint firstItem="BCI-on-P0S" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" id="RdK-bP-kob"/>
+                <constraint firstItem="BCI-on-P0S" firstAttribute="top" secondItem="DvC-TT-76o" secondAttribute="bottom" constant="5.0099999999999998" id="Tp6-R0-adz"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="DvC-TT-76o" secondAttribute="trailing" id="Ugp-bm-NyM"/>
+                <constraint firstItem="DvC-TT-76o" firstAttribute="top" secondItem="wck-my-pQR" secondAttribute="top" id="qA8-Wi-zeH"/>
+                <constraint firstItem="DvC-TT-76o" firstAttribute="leading" secondItem="5M7-xz-hms" secondAttribute="leading" id="wJ0-Iv-t3h"/>
+            </constraints>
+            <point key="canvasLocation" x="94" y="-12"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="lijiqianjinPointicon" width="10" height="18"/>
+    </resources>
+</document>

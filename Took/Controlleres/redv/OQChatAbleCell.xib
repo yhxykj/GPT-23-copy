@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="RzA-2r-scz" customClass="OQChatAbleCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="113" height="103"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="113" height="103"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cell_select" translatesAutoresizingMaskIntoConstraints="NO" id="jFJ-Ld-1wh">
+                        <rect key="frame" x="0.0" y="0.0" width="113" height="103"/>
+                    </imageView>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="SbJ-8n-kF8">
+                        <rect key="frame" x="4" y="4" width="105" height="95"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="bvS-4A-dzx"/>
+            <constraints>
+                <constraint firstItem="SbJ-8n-kF8" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" constant="4.01" id="clG-Jf-X3U"/>
+                <constraint firstItem="SbJ-8n-kF8" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" constant="3.96" id="7ud-tK-RXt"/>
+                <constraint firstAttribute="bottom" secondItem="SbJ-8n-kF8" secondAttribute="bottom" constant="3.99" id="8nW-G9-OtZ"/>
+                <constraint firstAttribute="trailing" secondItem="jFJ-Ld-1wh" secondAttribute="trailing" id="YPE-s3-FIO"/>
+                <constraint firstAttribute="bottom" secondItem="jFJ-Ld-1wh" secondAttribute="bottom" id="x1w-ok-KwH"/>
+                <constraint firstAttribute="trailing" secondItem="SbJ-8n-kF8" secondAttribute="trailing" constant="3.97" id="ONq-Dj-sGY"/>
+                <constraint firstItem="jFJ-Ld-1wh" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" id="QOi-Vu-X4o"/>
+                <constraint firstItem="jFJ-Ld-1wh" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" id="qpU-G4-KI7"/>
+            </constraints>
+            <size key="customSize" width="113" height="103"/>
+            <connections>
+                <outlet property="Icon" destination="SbJ-8n-kF8" id="vcD-eC-khH"/>
+                <outlet property="bgImage" destination="jFJ-Ld-1wh" id="i7c-YB-GV9"/>
+            </connections>
+            <point key="canvasLocation" x="179.23076923076923" y="6.7535545023696679"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="cell_select" width="60" height="60"/>
+    </resources>
+</document>

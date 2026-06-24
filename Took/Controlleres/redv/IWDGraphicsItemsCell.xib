@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="RzA-2r-scz" customClass="IWDGraphicsItemsCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="128" height="68"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="128" height="68"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="助理_选中" translatesAutoresizingMaskIntoConstraints="NO" id="jNG-Kj-zzh">
+                        <rect key="frame" x="0.0" y="0.0" width="128" height="68"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hwD-N5-Rfs">
+                        <rect key="frame" x="0.0" y="0.0" width="128" height="63"/>
+                        <color key="backgroundColor" red="0.94901960784313721" green="0.94901960784313721" blue="0.94901960784313721" alpha="0.84705882352941175" colorSpace="calibratedRGB"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="bvS-4A-dzx"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="jNG-Kj-zzh" secondAttribute="trailing" id="6VP-nT-Vut"/>
+                <constraint firstItem="hwD-N5-Rfs" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" id="12O-F3-jhQ"/>
+                <constraint firstItem="hwD-N5-Rfs" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" id="Wgv-rp-Jc3"/>
+                <constraint firstAttribute="trailing" secondItem="hwD-N5-Rfs" secondAttribute="trailing" id="vDo-zl-dFf"/>
+                <constraint firstAttribute="bottom" secondItem="hwD-N5-Rfs" secondAttribute="bottom" constant="4.98" id="cRW-T1-7Jw"/>
+                <constraint firstItem="jNG-Kj-zzh" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" id="QTE-ha-1h2"/>
+                <constraint firstAttribute="bottom" secondItem="jNG-Kj-zzh" secondAttribute="bottom" id="KjV-pM-Z2C"/>
+                <constraint firstItem="jNG-Kj-zzh" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" id="gWX-GM-SSU"/>
+            </constraints>
+            <size key="customSize" width="128" height="68"/>
+            <connections>
+                <outlet property="backImage" destination="jNG-Kj-zzh" id="YIP-Iw-uZQ"/>
+                <outlet property="titlelabel" destination="hwD-N5-Rfs" id="shI-A9-M1t"/>
+            </connections>
+            <point key="canvasLocation" x="190.76923076923077" y="-5.6872037914691944"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="助理_选中" width="72" height="40"/>
+    </resources>
+</document>
