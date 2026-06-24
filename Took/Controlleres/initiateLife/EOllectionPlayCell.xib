@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="RzA-2r-scz" customClass="EOllectionPlayCell" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="388" height="712"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="388" height="712"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="createnewSavePhonebtn" translatesAutoresizingMaskIntoConstraints="NO" id="TuJ-3h-CVT">
+                        <rect key="frame" x="0.0" y="0.0" width="388" height="712"/>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pWc-sR-PVK">
+                        <rect key="frame" x="22" y="588" width="344" height="88"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="88.03" id="rkc-1x-yda"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                        <state key="normal" image="numberGundong"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <integer key="value" value="22"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </button>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="bvS-4A-dzx"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="pWc-sR-PVK" secondAttribute="trailing" constant="21.97" id="J1w-BR-3Hc"/>
+                <constraint firstAttribute="bottom" secondItem="pWc-sR-PVK" secondAttribute="bottom" constant="36.01" id="AO8-2e-PV2"/>
+                <constraint firstItem="TuJ-3h-CVT" firstAttribute="top" secondItem="RzA-2r-scz" secondAttribute="top" id="LcN-gc-Yh3"/>
+                <constraint firstItem="pWc-sR-PVK" firstAttribute="centerX" secondItem="RzA-2r-scz" secondAttribute="centerX" id="CCu-uU-6Nf"/>
+                <constraint firstItem="pWc-sR-PVK" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" constant="21.98" id="uKG-R9-TuA"/>
+                <constraint firstAttribute="trailing" secondItem="TuJ-3h-CVT" secondAttribute="trailing" id="aSQ-Ao-6E1"/>
+                <constraint firstItem="TuJ-3h-CVT" firstAttribute="leading" secondItem="RzA-2r-scz" secondAttribute="leading" id="O4H-aU-jKW"/>
+                <constraint firstAttribute="bottom" secondItem="TuJ-3h-CVT" secondAttribute="bottom" id="QvB-T8-FRN"/>
+            </constraints>
+            <size key="customSize" width="388" height="712"/>
+            <connections>
+                <outlet property="Icon" destination="TuJ-3h-CVT" id="7sc-I6-Wh0"/>
+                <outlet property="button" destination="pWc-sR-PVK" id="fhx-Z3-jYp"/>
+            </connections>
+            <point key="canvasLocation" x="219.84732824427479" y="36.619718309859159"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="createnewSavePhonebtn" width="390" height="844"/>
+        <image name="numberGundong" width="332" height="54"/>
+    </resources>
+</document>

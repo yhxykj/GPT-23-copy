@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="Zih-A0-RXs" customClass="APNUserView" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ewo-Ri-jRY">
+                    <rect key="frame" x="15.999999999999996" y="12" width="40.666666666666657" height="22"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21.98" id="EKT-jD-utg"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="HTD-HI-fqR"/>
+            <constraints>
+                <constraint firstItem="ewo-Ri-jRY" firstAttribute="top" secondItem="Zih-A0-RXs" secondAttribute="top" constant="12.02" id="coS-oJ-Uxp"/>
+                <constraint firstItem="ewo-Ri-jRY" firstAttribute="leading" secondItem="Zih-A0-RXs" secondAttribute="leading" constant="16.02" id="ImK-ZP-XFL"/>
+            </constraints>
+            <connections>
+                <outlet property="headerLabel" destination="ewo-Ri-jRY" id="fC6-Fc-MAO"/>
+            </connections>
+            <point key="canvasLocation" x="38" y="-16"/>
+        </collectionReusableView>
+    </objects>
+</document>

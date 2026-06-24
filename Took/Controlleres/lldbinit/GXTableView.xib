@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="lk6-gQ-GDr" customClass="GXTableView" customModule="Bulter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.29999999999999999" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="r0v-BF-iWa">
+                    <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                    <color key="backgroundColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8pW-Js-2Rm">
+                    <rect key="frame" x="42" y="199" width="306" height="406"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="phonebtnNext" translatesAutoresizingMaskIntoConstraints="NO" id="1JR-BU-J9C">
+                            <rect key="frame" x="0.0" y="0.0" width="306" height="406"/>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oHV-Kz-KUj">
+                            <rect key="frame" x="30" y="324" width="246" height="59"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="245.99" id="f49-FM-4cT"/>
+                                <constraint firstAttribute="height" constant="59.01" id="h71-kc-xti"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <connections>
+                                <action selector="upgrades:" destination="lk6-gQ-GDr" eventType="touchUpInside" id="OjY-vQ-XBe"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7S5-Nu-Tiz">
+                            <rect key="frame" x="262" y="0.0" width="44" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="44.01" id="Sna-0U-A5C"/>
+                                <constraint firstAttribute="height" constant="44.05" id="crE-BZ-pqG"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <connections>
+                                <action selector="close:" destination="lk6-gQ-GDr" eventType="touchUpInside" id="QHm-Ik-WHW"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="406.03" id="mo0-Hl-UQb"/>
+                        <constraint firstItem="1JR-BU-J9C" firstAttribute="top" secondItem="8pW-Js-2Rm" secondAttribute="top" id="YjU-Oa-h4Q"/>
+                        <constraint firstItem="oHV-Kz-KUj" firstAttribute="centerX" secondItem="8pW-Js-2Rm" secondAttribute="centerX" id="3Qg-hm-LXh"/>
+                        <constraint firstAttribute="bottom" secondItem="oHV-Kz-KUj" secondAttribute="bottom" constant="23.04" id="3pS-E2-vH5"/>
+                        <constraint firstItem="7S5-Nu-Tiz" firstAttribute="top" secondItem="8pW-Js-2Rm" secondAttribute="top" id="Bcm-bm-8Dm"/>
+                        <constraint firstAttribute="trailing" secondItem="7S5-Nu-Tiz" secondAttribute="trailing" id="2HJ-Tr-P96"/>
+                        <constraint firstItem="1JR-BU-J9C" firstAttribute="centerX" secondItem="8pW-Js-2Rm" secondAttribute="centerX" id="j7F-p6-Ti4"/>
+                        <constraint firstItem="1JR-BU-J9C" firstAttribute="centerY" secondItem="8pW-Js-2Rm" secondAttribute="centerY" id="PA9-9a-ZyJ"/>
+                        <constraint firstAttribute="width" constant="306.03" id="N7D-UD-NiR"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Z6K-vV-eqd"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="r0v-BF-iWa" secondAttribute="trailing" id="bVC-DJ-KDH"/>
+                <constraint firstItem="r0v-BF-iWa" firstAttribute="leading" secondItem="lk6-gQ-GDr" secondAttribute="leading" id="o3q-vR-7Vy"/>
+                <constraint firstItem="8pW-Js-2Rm" firstAttribute="centerX" secondItem="lk6-gQ-GDr" secondAttribute="centerX" id="OeB-aX-GaI"/>
+                <constraint firstItem="8pW-Js-2Rm" firstAttribute="centerY" secondItem="lk6-gQ-GDr" secondAttribute="centerY" constant="-20" id="nsv-sU-54K"/>
+                <constraint firstAttribute="bottom" secondItem="r0v-BF-iWa" secondAttribute="bottom" id="cIh-be-8Cu"/>
+                <constraint firstItem="r0v-BF-iWa" firstAttribute="top" secondItem="lk6-gQ-GDr" secondAttribute="top" id="h6S-wL-uBd"/>
+            </constraints>
+            <point key="canvasLocation" x="121.53846153846153" y="-11.374407582938389"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="phonebtnNext" width="306" height="406"/>
+    </resources>
+</document>

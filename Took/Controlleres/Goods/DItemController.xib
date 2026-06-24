@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner" customClass="KMCardController" customModule="Took" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="5M7-xz-hms" id="d8Z-UJ-plH"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="5M7-xz-hms">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="itleRecordDelegate_4" translatesAutoresizingMaskIntoConstraints="NO" id="Y0t-0Q-An8">
+                    <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OGf-UU-izZ">
+                    <rect key="frame" x="46" y="744" width="301" height="54"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" image="loginbgCreatenew"/>
+                    <connections>
+                        <action selector="_nextClick" destination="ssP-AL-gVN" eventType="touchUpInside" id="QrK-lf-bky"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PJI-MH-wSY">
+                    <rect key="frame" x="10" y="59" width="55" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="55.039999999999999" id="jr3-tW-3QU"/>
+                        <constraint firstAttribute="height" constant="43.979999999999997" id="m0Z-5F-2z4"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" image="reusableBufferSave"/>
+                    <connections>
+                        <action selector="_dissmiss:" destination="ssP-AL-gVN" eventType="touchUpInside" id="CWU-Db-ORS"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="wck-my-pQR"/>
+            <color key="backgroundColor" red="0.094117647060000004" green="0.10980392160000001" blue="0.1215686275" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="Y0t-0Q-An8" firstAttribute="top" secondItem="5M7-xz-hms" secondAttribute="top" id="EOP-Rn-8iD"/>
+                <constraint firstItem="PJI-MH-wSY" firstAttribute="top" secondItem="wck-my-pQR" secondAttribute="top" id="ODx-yx-AXr"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="Y0t-0Q-An8" secondAttribute="trailing" id="QAD-gT-Zra"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="bottom" secondItem="OGf-UU-izZ" secondAttribute="bottom" constant="20.010000000000002" id="Uz1-Z5-7rr"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="OGf-UU-izZ" secondAttribute="trailing" constant="46.009999999999998" id="Wbh-QQ-xHo"/>
+                <constraint firstItem="OGf-UU-izZ" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" constant="46.009999999999998" id="Xin-wj-Ycm"/>
+                <constraint firstItem="PJI-MH-wSY" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" constant="9.9900000000000002" id="b2j-eZ-wRI"/>
+                <constraint firstItem="Y0t-0Q-An8" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" id="tPh-HC-mMg"/>
+                <constraint firstAttribute="bottom" secondItem="Y0t-0Q-An8" secondAttribute="bottom" id="zHl-iW-BhI"/>
+            </constraints>
+            <point key="canvasLocation" x="91" y="-11"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="itleRecordDelegate_4" width="390" height="844"/>
+        <image name="loginbgCreatenew" width="298" height="54"/>
+        <image name="reusableBufferSave" width="10" height="17"/>
+    </resources>
+</document>
