@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="ssP-AL-gVN" userLabel="File's Owner" customClass="QBSpeedsCanvasController" customModule="Bulter" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="5M7-xz-hms" id="d8Z-UJ-plH"/>
+                <outlet property="weixinlabel" destination="srt-BU-Hmd" id="aFz-4r-qpT"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="3iI-E9-eFb" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="5M7-xz-hms">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="l0q-yn-AK8">
+                    <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G7i-Mc-Pr9">
+                            <rect key="frame" x="5" y="0.0" width="55" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="55.01" id="anm-nC-tkW"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="lijiqianjinPointicon"/>
+                            <connections>
+                                <action selector="close:" destination="ssP-AL-gVN" eventType="touchUpInside" id="ZBo-M2-fAL"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="联系客服" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wBW-6V-bso">
+                            <rect key="frame" x="162" y="11.666666666666671" width="69.333333333333314" height="21"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="G7i-Mc-Pr9" firstAttribute="top" secondItem="l0q-yn-AK8" secondAttribute="top" id="2H3-uW-zUD"/>
+                        <constraint firstAttribute="height" constant="43.99" id="01t-uj-xUF"/>
+                        <constraint firstItem="G7i-Mc-Pr9" firstAttribute="leading" secondItem="l0q-yn-AK8" secondAttribute="leading" constant="4.97" id="m9T-jt-TLt"/>
+                        <constraint firstItem="wBW-6V-bso" firstAttribute="centerY" secondItem="l0q-yn-AK8" secondAttribute="centerY" id="8Pi-K7-55X"/>
+                        <constraint firstItem="wBW-6V-bso" firstAttribute="centerX" secondItem="l0q-yn-AK8" secondAttribute="centerX" id="lbz-8E-zqq"/>
+                        <constraint firstAttribute="bottom" secondItem="G7i-Mc-Pr9" secondAttribute="bottom" id="FeX-Q4-8ft"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rdM-mj-opi">
+                    <rect key="frame" x="16" y="185" width="361" height="61"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.29999999999999999" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="r4N-mM-0Y7">
+                            <rect key="frame" x="0.0" y="0.0" width="361" height="61"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="srt-BU-Hmd">
+                            <rect key="frame" x="19" y="5" width="0.0" height="51"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kru-Ne-MCd">
+                            <rect key="frame" x="294" y="0.0" width="55" height="61"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="54.98" id="VJH-HW-2dD"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="14"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="userAlamofire">
+                                <color key="titleColor" red="0.1019607843" green="0.1058823529" blue="0.14901960780000001" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <real key="value" value="16.5"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="fuzhi:" destination="ssP-AL-gVN" eventType="touchUpInside" id="qTh-Kq-yxN"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="r4N-mM-0Y7" secondAttribute="bottom" id="FpH-51-3Gz"/>
+                        <constraint firstAttribute="trailing" secondItem="r4N-mM-0Y7" secondAttribute="trailing" id="2Fn-H8-qJK"/>
+                        <constraint firstItem="Kru-Ne-MCd" firstAttribute="top" secondItem="rdM-mj-opi" secondAttribute="top" id="89x-uk-HpF"/>
+                        <constraint firstItem="srt-BU-Hmd" firstAttribute="leading" secondItem="rdM-mj-opi" secondAttribute="leading" constant="19.01" id="8A5-zK-Jrq"/>
+                        <constraint firstAttribute="trailing" secondItem="Kru-Ne-MCd" secondAttribute="trailing" constant="11.98" id="zcf-iU-WlQ"/>
+                        <constraint firstAttribute="height" constant="61.01" id="mxD-QJ-5As"/>
+                        <constraint firstAttribute="bottom" secondItem="srt-BU-Hmd" secondAttribute="bottom" constant="5.01" id="oxh-zy-2Us"/>
+                        <constraint firstItem="srt-BU-Hmd" firstAttribute="top" secondItem="rdM-mj-opi" secondAttribute="top" constant="5.01" id="sbg-Ru-1Ey"/>
+                        <constraint firstItem="r4N-mM-0Y7" firstAttribute="top" secondItem="rdM-mj-opi" secondAttribute="top" id="zt3-9Z-aEc"/>
+                        <constraint firstItem="r4N-mM-0Y7" firstAttribute="leading" secondItem="rdM-mj-opi" secondAttribute="leading" id="bXu-sO-19i"/>
+                        <constraint firstAttribute="bottom" secondItem="Kru-Ne-MCd" secondAttribute="bottom" id="SNG-Sh-RZy"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="16"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="客服微信：" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HR4-44-5V1">
+                    <rect key="frame" x="16" y="149" width="92" height="21"/>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
+                    <color key="textColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="wck-my-pQR"/>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="rdM-mj-opi" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" constant="16.02" id="4hR-0W-BRy"/>
+                <constraint firstItem="HR4-44-5V1" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" constant="15.98" id="9UR-2y-c2k"/>
+                <constraint firstItem="l0q-yn-AK8" firstAttribute="leading" secondItem="wck-my-pQR" secondAttribute="leading" id="MiY-Dr-0ko"/>
+                <constraint firstItem="l0q-yn-AK8" firstAttribute="top" secondItem="wck-my-pQR" secondAttribute="top" id="DOz-zH-05w"/>
+                <constraint firstItem="HR4-44-5V1" firstAttribute="top" secondItem="l0q-yn-AK8" secondAttribute="bottom" constant="46.01" id="lBD-sL-tSR"/>
+                <constraint firstItem="rdM-mj-opi" firstAttribute="top" secondItem="HR4-44-5V1" secondAttribute="bottom" constant="14.99" id="JD0-Hk-vTB"/>
+                <constraint firstAttribute="trailing" secondItem="l0q-yn-AK8" secondAttribute="trailing" id="ckW-Yj-AgK"/>
+                <constraint firstItem="wck-my-pQR" firstAttribute="trailing" secondItem="rdM-mj-opi" secondAttribute="trailing" constant="16.02" id="G8Z-M0-DGe"/>
+            </constraints>
+            <point key="canvasLocation" x="81.679389312977094" y="-12.67605633802817"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="lijiqianjinPointicon" width="10" height="18"/>
+        <image name="userAlamofire" width="20" height="20"/>
+    </resources>
+</document>
